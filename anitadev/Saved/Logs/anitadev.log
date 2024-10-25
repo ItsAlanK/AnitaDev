@@ -2062,3 +2062,701 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.25-20.37.22:833][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.10.25-20.37.22:835][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2024.10.25-20.37.22:894][581]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.10.25-20.40.26:459][613]LogBlueprint: Error: [AssetLog] E:\Documents\MSc-Games\Software-Engineering\AnitaDev\anitadev\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  In String  no longer exists on node  Is Player Alive . Please refresh node or break links to remove pin.
+[2024.10.25-20.40.26:498][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.10.25-20.40.39:777][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.25-20.40.39:822][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.40.39:852][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.40.39:905][161]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.40.39:905][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.40.39:914][161]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-20.40.39:914][161]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter3B33CC214701C7DD6A355E8501A3D45F.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-20.40.39:921][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.518 ms (total: 1.55 sec)
+[2024.10.25-20.40.39:968][161]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.40.39:968][161]LogContentValidation: Enabled validators:
+[2024.10.25-20.40.39:968][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.40.39:968][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.40.39:968][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.40.39:968][161]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-20.40.39:968][161]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-20.41.31:636][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.25-20.41.31:641][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment' took 0.018
+[2024.10.25-20.41.31:641][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.41.31:641][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.41.31:651][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2024.10.25-20.41.31:651][223]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter_Auto1C03CE0184B3B739C6D07D4809EBE0163.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2024.10.25-20.41.31:651][223]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.10.25-20.43.43:591][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.25-20.43.43:631][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.43.43:675][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.43.43:724][727]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.43.43:724][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.43.43:734][727]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-20.43.43:735][727]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter947415AE4296A61F0AB79B93AC127C06.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-20.43.43:741][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.068 ms (total: 1.66 sec)
+[2024.10.25-20.43.43:791][727]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.43.43:791][727]LogContentValidation: Enabled validators:
+[2024.10.25-20.43.43:791][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.43.43:791][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.43.43:791][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.43.43:791][727]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-20.43.43:792][727]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-20.43.54:383][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.25-20.43.54:424][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.43.54:477][941]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.43.54:520][941]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.43.54:520][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.43.54:529][941]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-20.43.54:529][941]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter98E2F7A44661D92B563EEB9FF397AB9C.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-20.43.54:536][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.175 ms (total: 1.77 sec)
+[2024.10.25-20.43.54:593][941]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.43.54:593][941]LogContentValidation: Enabled validators:
+[2024.10.25-20.43.54:593][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.43.54:593][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.43.54:593][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.43.54:593][941]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-20.43.54:593][941]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-20.45.43:572][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.25-20.45.43:614][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.45.43:666][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.45.43:715][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.45.43:715][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.45.43:724][256]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-20.45.43:724][256]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter8C1C4DB8487D2745EFB64A8167E3A1A7.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-20.45.43:729][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.363 ms (total: 1.89 sec)
+[2024.10.25-20.45.43:780][256]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.45.43:780][256]LogContentValidation: Enabled validators:
+[2024.10.25-20.45.43:780][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.45.43:780][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.45.43:780][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.45.43:780][256]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-20.45.43:780][256]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-20.45.49:325][871]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-20.45.49:331][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-20.45.49:358][871]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.45.49:360][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001988s)
+[2024.10.25-20.45.49:360][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.002015s)
+[2024.10.25-20.45.49:373][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.25-20.45.49:378][871]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-20.45.49:379][871]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2024.10.25-20.45.49:384][871]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.10.25-20.45.49:384][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-20.45.49:384][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-20.45.49:384][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-20.45.49:384][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-20.45.49:384][871]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-20.45.49:384][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-20.45.49:384][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-20.45.49:384][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-20.45.49:384][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-20.45.49:384][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-20.45.49:384][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-20.45.49:385][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-20.45.49:402][871]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.25-20.45.49:402][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-20.45.49:402][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-20.45.49:402][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-20.45.49:403][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.10.25-20.45.49:403][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.10.25-20.45.49:404][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.10.25-20.45.49:404][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.10.25-20.45.49:404][871]LogInit: FAudioDevice initialized with ID 13.
+[2024.10.25-20.45.49:404][871]LogAudio: Display: Audio Device (ID: 13) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.25-20.45.49:404][871]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.25-20.45.49:407][871]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.25-20.45.49:410][871]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.25-21.45.49
+[2024.10.25-20.45.49:410][871]LogWorld: Bringing up level for play took: 0.003551
+[2024.10.25-20.45.49:412][871]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.10.25-20.45.49:412][871]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.45.49:412][871]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.45.49:412][871]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.45.49:414][871]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.45.49:419][871]PIE: Server logged in
+[2024.10.25-20.45.49:420][871]PIE: Play in editor total start time 0.09 seconds.
+[2024.10.25-20.45.50:808][  6]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Died
+[2024.10.25-20.45.50:825][  7]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.45.51:315][ 60]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.45.57:360][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.45.57:360][659]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.45.57:360][659]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-20.45.57:360][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.45.57:360][659]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-20.45.57:360][659]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-20.45.57:363][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-20.45.57:366][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.45.57:379][659]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-20.45.57:379][659]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.25-20.45.57:379][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.25-20.45.57:381][659]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.25-20.45.57:383][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.45.57:386][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.25-20.45.57:444][660]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.10.25-20.45.59:138][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-20.45.59:142][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-20.45.59:169][858]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.45.59:171][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002011s)
+[2024.10.25-20.45.59:171][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.002040s)
+[2024.10.25-20.45.59:183][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.25-20.45.59:187][858]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-20.45.59:188][858]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2024.10.25-20.45.59:193][858]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.10.25-20.45.59:193][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-20.45.59:193][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-20.45.59:193][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-20.45.59:193][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-20.45.59:193][858]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-20.45.59:193][858]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-20.45.59:193][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-20.45.59:194][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-20.45.59:194][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-20.45.59:194][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-20.45.59:194][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-20.45.59:195][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-20.45.59:210][858]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.25-20.45.59:211][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-20.45.59:211][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-20.45.59:211][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-20.45.59:211][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.10.25-20.45.59:211][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.10.25-20.45.59:212][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.10.25-20.45.59:212][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.10.25-20.45.59:212][858]LogInit: FAudioDevice initialized with ID 14.
+[2024.10.25-20.45.59:212][858]LogAudio: Display: Audio Device (ID: 14) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.25-20.45.59:212][858]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.25-20.45.59:215][858]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.25-20.45.59:217][858]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.25-21.45.59
+[2024.10.25-20.45.59:218][858]LogWorld: Bringing up level for play took: 0.003491
+[2024.10.25-20.45.59:219][858]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.10.25-20.45.59:220][858]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.45.59:220][858]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.45.59:220][858]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.45.59:221][858]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.45.59:226][858]PIE: Server logged in
+[2024.10.25-20.45.59:227][858]PIE: Play in editor total start time 0.086 seconds.
+[2024.10.25-20.46.00:891][ 19]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Died
+[2024.10.25-20.46.00:906][ 20]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.46.01:396][ 74]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.46.01:750][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.46.01:750][108]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.46.01:750][108]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-20.46.01:751][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.46.01:751][108]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-20.46.01:751][108]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-20.46.01:753][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-20.46.01:757][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.46.01:770][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.46.01:770][108]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.25-20.46.01:770][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.25-20.46.01:771][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.25-20.46.01:777][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.25-20.46.01:834][109]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.10.25-20.46.14:517][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.25-20.46.14:563][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.46.14:615][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.46.14:658][509]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.46.14:658][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.46.14:667][509]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-20.46.14:667][509]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacterB3BC6F064B9F1141F17263A4DF4A3072.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-20.46.14:675][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.718 ms (total: 2.00 sec)
+[2024.10.25-20.46.14:731][509]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.46.14:731][509]LogContentValidation: Enabled validators:
+[2024.10.25-20.46.14:731][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.46.14:731][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.46.14:731][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.46.14:731][509]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-20.46.14:731][509]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-20.46.16:344][683]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-20.46.16:349][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-20.46.16:389][683]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.46.16:391][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001986s)
+[2024.10.25-20.46.16:391][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.002013s)
+[2024.10.25-20.46.16:405][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.25-20.46.16:409][683]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-20.46.16:410][683]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2024.10.25-20.46.16:415][683]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.10.25-20.46.16:415][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-20.46.16:415][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-20.46.16:415][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-20.46.16:415][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-20.46.16:415][683]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-20.46.16:415][683]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-20.46.16:415][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-20.46.16:415][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-20.46.16:415][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-20.46.16:415][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-20.46.16:415][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-20.46.16:417][683]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-20.46.16:432][683]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.25-20.46.16:432][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-20.46.16:432][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-20.46.16:432][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-20.46.16:433][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.10.25-20.46.16:433][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.10.25-20.46.16:434][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.10.25-20.46.16:434][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.10.25-20.46.16:434][683]LogInit: FAudioDevice initialized with ID 15.
+[2024.10.25-20.46.16:434][683]LogAudio: Display: Audio Device (ID: 15) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.25-20.46.16:434][683]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.25-20.46.16:436][683]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.25-20.46.16:439][683]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.25-21.46.16
+[2024.10.25-20.46.16:440][683]LogWorld: Bringing up level for play took: 0.003695
+[2024.10.25-20.46.16:441][683]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.10.25-20.46.16:442][683]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.46.16:442][683]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.46.16:442][683]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.46.16:443][683]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.46.16:447][683]PIE: Server logged in
+[2024.10.25-20.46.16:449][683]PIE: Play in editor total start time 0.101 seconds.
+[2024.10.25-20.46.19:255][957]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2024.10.25-20.46.20:783][110]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2024.10.25-20.46.22:168][246]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Died
+[2024.10.25-20.46.22:185][247]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.46.22:668][300]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.46.28:590][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.46.28:591][881]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.46.28:591][881]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-20.46.28:591][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.46.28:591][881]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-20.46.28:591][881]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-20.46.28:594][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-20.46.28:597][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.46.28:607][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-20.46.28:607][881]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.25-20.46.28:607][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.25-20.46.28:608][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.25-20.46.28:611][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.46.28:614][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.25-20.46.28:672][882]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.10.25-20.47.42:186][322]LogEditorTransaction: Undo Delete current selection
+[2024.10.25-20.47.42:668][331]LogEditorTransaction: Undo Function Dropped on Graph
+[2024.10.25-20.47.43:104][372]LogEditorTransaction: Undo Create Pin Link
+[2024.10.25-20.47.43:361][391]LogEditorTransaction: Undo Move Nodes
+[2024.10.25-20.47.43:837][441]LogEditorTransaction: Undo Paste clipboard contents
+[2024.10.25-20.47.46:517][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.25-20.50.44:012][118]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-20.50.44:016][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-20.50.44:040][118]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.50.44:042][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002040s)
+[2024.10.25-20.50.44:042][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.002076s)
+[2024.10.25-20.50.44:054][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.25-20.50.44:057][118]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-20.50.44:057][118]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2024.10.25-20.50.44:063][118]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.10.25-20.50.44:063][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-20.50.44:063][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-20.50.44:063][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-20.50.44:063][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-20.50.44:063][118]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-20.50.44:063][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-20.50.44:063][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-20.50.44:063][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-20.50.44:063][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-20.50.44:063][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-20.50.44:063][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-20.50.44:065][118]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-20.50.44:081][118]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.25-20.50.44:081][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-20.50.44:081][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-20.50.44:081][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-20.50.44:082][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.10.25-20.50.44:082][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.10.25-20.50.44:083][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.10.25-20.50.44:083][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.10.25-20.50.44:083][118]LogInit: FAudioDevice initialized with ID 16.
+[2024.10.25-20.50.44:083][118]LogAudio: Display: Audio Device (ID: 16) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.25-20.50.44:083][118]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.25-20.50.44:086][118]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.25-20.50.44:089][118]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.25-21.50.44
+[2024.10.25-20.50.44:089][118]LogWorld: Bringing up level for play took: 0.003482
+[2024.10.25-20.50.44:090][118]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.10.25-20.50.44:091][118]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.50.44:091][118]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.50.44:091][118]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.50.44:093][118]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.50.44:099][118]PIE: Server logged in
+[2024.10.25-20.50.44:099][118]PIE: Play in editor total start time 0.083 seconds.
+[2024.10.25-20.51.09:007][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2024.10.25-20.51.09:792][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2024.10.25-20.51.10:265][413]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Died
+[2024.10.25-20.51.10:284][413]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.51.10:770][467]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.51.38:894][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.51.38:894][227]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.51.38:894][227]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-20.51.38:894][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.51.38:894][227]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-20.51.38:894][227]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-20.51.38:897][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-20.51.38:901][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.51.38:912][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-20.51.38:912][227]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.25-20.51.38:913][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.25-20.51.38:914][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.25-20.51.38:917][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.51.38:920][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.10.25-20.51.38:968][228]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.10.25-20.51.50:826][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.25-20.51.50:869][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.51.50:929][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.51.50:981][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.51.50:981][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.51.50:991][553]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-20.51.50:991][553]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacterC23724B149B8D30D76DDC69CE4A3A04B.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-20.51.50:998][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.364 ms (total: 2.13 sec)
+[2024.10.25-20.51.51:043][553]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.51.51:043][553]LogContentValidation: Enabled validators:
+[2024.10.25-20.51.51:043][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.51.51:043][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.51.51:043][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.51.51:043][553]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-20.51.51:043][553]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-20.51.52:689][726]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-20.51.52:694][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-20.51.52:723][726]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.51.52:725][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002337s)
+[2024.10.25-20.51.52:725][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.002371s)
+[2024.10.25-20.51.52:736][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.25-20.51.52:740][726]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-20.51.52:741][726]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2024.10.25-20.51.52:746][726]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.10.25-20.51.52:746][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-20.51.52:746][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-20.51.52:746][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-20.51.52:746][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-20.51.52:746][726]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-20.51.52:746][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-20.51.52:746][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-20.51.52:746][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-20.51.52:746][726]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-20.51.52:746][726]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-20.51.52:746][726]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-20.51.52:748][726]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-20.51.52:763][726]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.25-20.51.52:763][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-20.51.52:763][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-20.51.52:763][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-20.51.52:763][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.10.25-20.51.52:763][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.10.25-20.51.52:765][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.10.25-20.51.52:765][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.10.25-20.51.52:765][726]LogInit: FAudioDevice initialized with ID 17.
+[2024.10.25-20.51.52:765][726]LogAudio: Display: Audio Device (ID: 17) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.25-20.51.52:765][726]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.10.25-20.51.52:767][726]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.25-20.51.52:770][726]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.25-21.51.52
+[2024.10.25-20.51.52:770][726]LogWorld: Bringing up level for play took: 0.003660
+[2024.10.25-20.51.52:772][726]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.10.25-20.51.52:772][726]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.51.52:772][726]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.51.52:772][726]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.51.52:774][726]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.51.52:779][726]PIE: Server logged in
+[2024.10.25-20.51.52:780][726]PIE: Play in editor total start time 0.088 seconds.
+[2024.10.25-20.51.53:897][829]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.10.25-20.51.53:897][829]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2024.10.25-20.51.54:084][847]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.10.25-20.51.54:084][847]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2024.10.25-20.51.54:258][864]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.10.25-20.51.54:259][864]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Died
+[2024.10.25-20.51.54:275][865]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.51.54:773][915]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.51.55:362][977]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] Hello
+[2024.10.25-20.51.55:828][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] Hello
+[2024.10.25-20.51.56:313][ 77]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] Hello
+[2024.10.25-20.51.56:665][114]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] Hello
+[2024.10.25-20.51.57:245][175]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] Hello
+[2024.10.25-20.51.57:843][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.51.57:843][235]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.51.57:843][235]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-20.51.57:844][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.51.57:844][235]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-20.51.57:844][235]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-20.51.57:846][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-20.51.57:850][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.51.57:860][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-20.51.57:860][235]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.10.25-20.51.57:860][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.10.25-20.51.57:862][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.10.25-20.51.57:864][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.51.57:867][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.25-20.51.57:934][237]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.10.25-20.52.04:040][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.25-20.52.04:084][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.52.04:128][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.52.04:171][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.52.04:171][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.52.04:179][922]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-20.52.04:179][922]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter1F81E13242D11011BDFE3FADC1C70941.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-20.52.04:186][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.954 ms (total: 2.23 sec)
+[2024.10.25-20.52.04:227][922]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.52.04:227][922]LogContentValidation: Enabled validators:
+[2024.10.25-20.52.04:227][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.52.04:227][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.52.04:227][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.52.04:227][922]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-20.52.04:227][922]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-20.53.05:257][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.25-20.53.05:304][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.53.05:363][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainGameMode] ([2] browsable assets)...
+[2024.10.25-20.53.05:364][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainGameMode]
+[2024.10.25-20.53.05:364][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2024.10.25-20.53.05:367][ 88]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2024.10.25-20.53.05:367][ 88]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/MainGameMode3EFFC6E749BA49217BC4F1AA589F1FC8.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/MainGameMode.uasset'
+[2024.10.25-20.53.05:373][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.657 ms (total: 2.30 sec)
+[2024.10.25-20.53.05:412][ 88]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.53.05:412][ 88]LogContentValidation: Enabled validators:
+[2024.10.25-20.53.05:413][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.53.05:413][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.53.05:413][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.53.05:413][ 88]LogContentValidation: Display: Validating asset /Game/Blueprints/MainGameMode.MainGameMode
+[2024.10.25-20.53.05:413][ 88]AssetCheck: /Game/Blueprints/MainGameMode Validating asset
+[2024.10.25-20.53.06:527][184]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.25-20.53.08:096][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-20.53.08:096][324]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.53.08:098][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001950s)
+[2024.10.25-20.53.08:098][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.001975s)
+[2024.10.25-20.53.08:112][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.25-20.53.08:119][324]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-20.53.08:120][324]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2024.10.25-20.53.08:124][324]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.10.25-20.53.08:124][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-20.53.08:124][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-20.53.08:124][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-20.53.08:124][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-20.53.08:124][324]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-20.53.08:124][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-20.53.08:124][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-20.53.08:124][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-20.53.08:124][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-20.53.08:124][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-20.53.08:124][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-20.53.08:126][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-20.53.08:142][324]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.25-20.53.08:142][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-20.53.08:142][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-20.53.08:142][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-20.53.08:143][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.10.25-20.53.08:143][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.10.25-20.53.08:143][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.10.25-20.53.08:143][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.10.25-20.53.08:143][324]LogInit: FAudioDevice initialized with ID 18.
+[2024.10.25-20.53.08:143][324]LogAudio: Display: Audio Device (ID: 18) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.25-20.53.08:143][324]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.10.25-20.53.08:146][324]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.25-20.53.08:149][324]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.25-21.53.08
+[2024.10.25-20.53.08:149][324]LogWorld: Bringing up level for play took: 0.003397
+[2024.10.25-20.53.08:150][324]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.10.25-20.53.08:151][324]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.53.08:151][324]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.53.08:151][324]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.53.08:153][324]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.53.08:158][324]PIE: Server logged in
+[2024.10.25-20.53.08:159][324]PIE: Play in editor total start time 0.065 seconds.
+[2024.10.25-20.53.38:906][222]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2024.10.25-20.53.40:141][343]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2024.10.25-20.53.40:579][386]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Died
+[2024.10.25-20.53.40:597][386]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.53.41:092][437]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.54.04:659][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.54.04:659][481]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.54.04:659][481]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-20.54.04:659][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.54.04:659][481]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-20.54.04:659][481]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-20.54.04:662][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-20.54.04:666][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.54.04:677][481]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-20.54.04:677][481]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.10.25-20.54.04:677][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.10.25-20.54.04:679][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.10.25-20.54.04:682][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.54.04:684][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.25-20.54.04:718][482]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.10.25-20.54.18:647][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.25-20.54.18:690][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.54.18:733][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.54.18:785][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.54.18:785][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.54.18:794][ 33]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-20.54.18:795][ 33]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter9171767347BACE80FB2CD18D554D5B54.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-20.54.18:801][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.495 ms (total: 2.41 sec)
+[2024.10.25-20.54.18:833][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.54.18:833][ 33]LogContentValidation: Enabled validators:
+[2024.10.25-20.54.18:833][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.54.18:833][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.54.18:833][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.54.18:833][ 33]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-20.54.18:833][ 33]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-20.54.20:986][263]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-20.54.20:990][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-20.54.21:038][263]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.54.21:040][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002085s)
+[2024.10.25-20.54.21:040][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.002120s)
+[2024.10.25-20.54.21:053][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.25-20.54.21:057][263]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-20.54.21:058][263]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2024.10.25-20.54.21:063][263]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.10.25-20.54.21:063][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-20.54.21:063][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-20.54.21:063][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-20.54.21:063][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-20.54.21:063][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-20.54.21:063][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-20.54.21:063][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-20.54.21:063][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-20.54.21:063][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-20.54.21:063][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-20.54.21:063][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-20.54.21:064][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-20.54.21:080][263]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.25-20.54.21:081][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-20.54.21:081][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-20.54.21:081][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-20.54.21:081][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.10.25-20.54.21:081][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.10.25-20.54.21:082][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.10.25-20.54.21:082][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.10.25-20.54.21:082][263]LogInit: FAudioDevice initialized with ID 19.
+[2024.10.25-20.54.21:082][263]LogAudio: Display: Audio Device (ID: 19) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.25-20.54.21:082][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.10.25-20.54.21:084][263]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.25-20.54.21:088][263]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.25-21.54.21
+[2024.10.25-20.54.21:088][263]LogWorld: Bringing up level for play took: 0.003542
+[2024.10.25-20.54.21:089][263]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.10.25-20.54.21:090][263]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.54.21:090][263]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-20.54.21:090][263]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.54.21:092][263]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.10.25-20.54.21:092][263]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-20.54.21:096][263]PIE: Server logged in
+[2024.10.25-20.54.21:097][263]PIE: Play in editor total start time 0.108 seconds.
+[2024.10.25-20.54.23:244][465]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2024.10.25-20.54.23:624][502]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2024.10.25-20.54.23:901][529]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Died
+[2024.10.25-20.54.23:918][530]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.54.24:403][581]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-20.54.27:779][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.54.27:779][931]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-20.54.27:779][931]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-20.54.27:779][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.54.27:780][931]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-20.54.27:780][931]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-20.54.27:782][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-20.54.27:786][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-20.54.27:798][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-20.54.27:798][931]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.10.25-20.54.27:798][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.10.25-20.54.27:799][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.10.25-20.54.27:802][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-20.54.27:805][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.25-20.54.27:840][932]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.10.25-20.54.38:447][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.25-20.54.38:489][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-20.54.38:518][131]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.54.38:566][131]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.54.38:566][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.54.38:577][131]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-20.54.38:577][131]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacterB177C5F84A9E915AF9E7C48FFB91D5E3.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-20.54.38:584][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.174 ms (total: 2.51 sec)
+[2024.10.25-20.54.38:617][131]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-20.54.38:617][131]LogContentValidation: Enabled validators:
+[2024.10.25-20.54.38:617][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-20.54.38:617][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-20.54.38:617][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-20.54.38:617][131]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-20.54.38:617][131]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-20.57.48:036][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.10.25-20.57.48:042][289]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment' took 0.019
+[2024.10.25-20.57.48:042][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-20.57.48:133][289]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-20.57.48:133][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-20.57.48:143][289]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.10.25-20.57.48:143][289]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter_Auto2BC3279BB42A9E8FCE5931E8B432A274B.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.10.25-20.57.48:143][289]LogFileHelpers: Auto-saving content packages took 0.101
+[2024.10.25-21.00.14:853][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.25-21.00.14:904][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-21.00.14:964][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.25-21.00.15:016][778]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.25-21.00.15:016][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.25-21.00.15:027][778]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.25-21.00.15:027][778]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter6F6C084B4816CFD4BF6A47B2B2B10657.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.25-21.00.15:034][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.624 ms (total: 2.64 sec)
+[2024.10.25-21.00.15:079][778]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.25-21.00.15:079][778]LogContentValidation: Enabled validators:
+[2024.10.25-21.00.15:079][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.25-21.00.15:079][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.25-21.00.15:079][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.25-21.00.15:079][778]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.25-21.00.15:079][778]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.25-21.00.27:928][245]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-21.00.27:933][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-21.00.27:962][245]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-21.00.27:964][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002125s)
+[2024.10.25-21.00.27:964][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.002157s)
+[2024.10.25-21.00.27:974][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.25-21.00.27:979][245]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.25-21.00.27:979][245]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2024.10.25-21.00.27:985][245]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.10.25-21.00.27:985][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-21.00.27:985][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-21.00.27:985][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-21.00.27:985][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-21.00.27:985][245]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.25-21.00.27:985][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-21.00.27:985][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.25-21.00.27:985][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-21.00.27:985][245]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-21.00.27:985][245]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-21.00.27:985][245]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-21.00.27:987][245]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-21.00.28:003][245]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.25-21.00.28:003][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-21.00.28:003][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-21.00.28:003][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-21.00.28:004][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.10.25-21.00.28:004][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.10.25-21.00.28:005][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.10.25-21.00.28:005][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.10.25-21.00.28:005][245]LogInit: FAudioDevice initialized with ID 20.
+[2024.10.25-21.00.28:005][245]LogAudio: Display: Audio Device (ID: 20) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.25-21.00.28:005][245]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.25-21.00.28:007][245]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.25-21.00.28:011][245]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.25-22.00.28
+[2024.10.25-21.00.28:011][245]LogWorld: Bringing up level for play took: 0.003553
+[2024.10.25-21.00.28:012][245]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.10.25-21.00.28:012][245]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-21.00.28:012][245]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.25-21.00.28:013][245]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-21.00.28:014][245]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.25-21.00.28:019][245]PIE: Server logged in
+[2024.10.25-21.00.28:021][245]PIE: Play in editor total start time 0.089 seconds.
+[2024.10.25-21.00.29:509][385]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2024.10.25-21.00.30:309][464]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2024.10.25-21.00.30:936][526]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Died
+[2024.10.25-21.00.30:952][527]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-21.00.31:440][578]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-21.00.32:302][669]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] 2
+[2024.10.25-21.00.33:061][749]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] 1
+[2024.10.25-21.00.33:545][800]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] You Died
+[2024.10.25-21.00.33:559][801]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-21.00.34:051][854]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-21.00.35:240][979]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_4] 2
+[2024.10.25-21.00.35:735][ 31]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_4] 1
+[2024.10.25-21.00.36:048][ 64]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_4] You Died
+[2024.10.25-21.00.36:064][ 65]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-21.00.36:560][118]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.10.25-21.00.37:112][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-21.00.37:113][173]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.25-21.00.37:113][173]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-21.00.37:113][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-21.00.37:113][173]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.25-21.00.37:113][173]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.25-21.00.37:115][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-21.00.37:120][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-21.00.37:129][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-21.00.37:129][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.25-21.00.37:129][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.25-21.00.37:131][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.25-21.00.37:133][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-21.00.37:136][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.25-21.00.37:203][175]LogPlayLevel: Display: Destroying online subsystem :Context_28
