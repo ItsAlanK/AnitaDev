@@ -12134,3 +12134,856 @@ Make sure 'BP_ToxicPool_C' has been compiled for  Deal Damage
 [2024.10.26-15.09.18:239][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.10.26-15.09.18:242][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2024.10.26-15.09.18:312][299]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2024.10.26-15.11.57:432][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.26-15.11.57:437][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment' took 0.017
+[2024.10.26-15.11.57:438][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.26-15.11.57:438][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.26-15.11.57:447][939]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2024.10.26-15.11.57:447][939]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter_Auto7ECE5FF1342C03C13DA69AA8C68C2731C.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2024.10.26-15.11.57:448][939]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_ToxicPool] ([2] browsable assets)...
+[2024.10.26-15.11.57:448][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ToxicPool]
+[2024.10.26-15.11.57:452][939]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_ToxicPool_Auto7
+[2024.10.26-15.11.57:452][939]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPool_Auto7F33EC72B492691D140A03B8AE9A687EF.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Autosaves/Game/Blueprints/BP_ToxicPool_Auto7.uasset'
+[2024.10.26-15.11.57:453][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Materials/Mat_ToxicPool] ([1] browsable assets)...
+[2024.10.26-15.11.57:453][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Materials/Mat_ToxicPool]
+[2024.10.26-15.11.57:454][939]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Materials/Mat_ToxicPool_Auto7
+[2024.10.26-15.11.57:454][939]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Mat_ToxicPool_Auto7B4970D18480667AADCF8449ED7438F87.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Autosaves/Game/Models/Materials/Mat_ToxicPool_Auto7.uasset'
+[2024.10.26-15.11.57:454][939]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.10.26-15.12.10:886][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.12.10:936][416]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.26-15.12.10:936][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.26-15.12.10:946][416]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.26-15.12.10:946][416]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacterBAC5B8F942431078922924B9AB42734F.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.26-15.12.10:953][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.126 ms (total: 12.0 sec)
+[2024.10.26-15.12.11:001][416]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.12.11:001][416]LogContentValidation: Enabled validators:
+[2024.10.26-15.12.11:001][416]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.12.11:001][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.12.11:001][416]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.12.11:001][416]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.26-15.12.11:001][416]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.26-15.12.14:140][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.12.14:186][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_ToxicPool] ([2] browsable assets)...
+[2024.10.26-15.12.14:186][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ToxicPool]
+[2024.10.26-15.12.14:186][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ToxicPool" FILE="../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/BP_ToxicPool.uasset" SILENT=true
+[2024.10.26-15.12.14:191][778]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ToxicPool
+[2024.10.26-15.12.14:191][778]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFFA5FC744F80F3163048F494F60EB9E3.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/BP_ToxicPool.uasset'
+[2024.10.26-15.12.14:198][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.537 ms (total: 12.1 sec)
+[2024.10.26-15.12.14:236][778]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.12.14:236][778]LogContentValidation: Enabled validators:
+[2024.10.26-15.12.14:236][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.12.14:236][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.12.14:236][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.12.14:236][778]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_ToxicPool.BP_ToxicPool
+[2024.10.26-15.12.14:236][778]AssetCheck: /Game/Blueprints/BP_ToxicPool Validating asset
+[2024.10.26-15.12.37:035][ 64]Warning: While importing text for property 'DealDamage' in 'BP_ThirdPersonCharacter_C':
+[2024.10.26-15.12.37:035][ 64]Warning: Unable to find function FTEST_PrototypeEnvironment:PersistentLevel.BP_ThirdPersonCharacter_C_1.TakeDamage in object /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment for delegate (found class: Package)
+[2024.10.26-15.13.19:937][995]Cmd: EDIT CUT
+[2024.10.26-15.13.20:823][ 94]Cmd: EDIT PASTE
+[2024.10.26-15.13.58:975][891]Cmd: TRANSACTION UNDO
+[2024.10.26-15.13.58:975][891]LogEditorTransaction: Undo Attach actors
+[2024.10.26-15.15.19:619][ 74]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.26-15.15.19:635][ 74]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.26-15.15.19:648][ 75]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.26-15.15.24:642][435]LogContentBrowser: Attempting asset rename: NewFolder -> ToxicPool
+[2024.10.26-15.15.24:642][435]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.26-15.15.32:403][623]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.26-15.15.32:409][623]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.26-15.15.32:416][623]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.26-15.15.32:439][625]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.26-15.15.42:682][357]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ToxicPoolFuncTest
+[2024.10.26-15.15.42:687][357]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.26-15.15.43:810][435]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.26-15.16.26:738][616]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.BP_CalcBounceVelocityJumpingPlayerTest
+[2024.10.26-15.17.11:957][881]LogBlueprint: Error: [AssetLog] /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest: [Compiler] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2024.10.26-15.17.12:006][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.26-15.17.29:487][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.26-15.17.29:500][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.17.29:545][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([2] browsable assets)...
+[2024.10.26-15.17.29:545][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.26-15.17.29:548][862]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.26-15.17.29:548][862]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTest415A71B24D9D93B3F36833B39A871C0A.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.26-15.17.29:556][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.489 ms (total: 12.1 sec)
+[2024.10.26-15.17.29:612][862]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.17.29:612][862]LogContentValidation: Enabled validators:
+[2024.10.26-15.17.29:612][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.17.29:612][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.17.29:612][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.17.29:612][862]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.26-15.17.29:612][862]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.26-15.17.36:088][374]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C
+[2024.10.26-15.17.36:088][374]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C
+[2024.10.26-15.17.36:089][374]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest as actor: BP_ToxicPoolFuncTest_C /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment:PersistentLevel.BP_ToxicPoolFuncTest_C_0
+[2024.10.26-15.17.36:089][374]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest as actor: BP_ToxicPoolFuncTest_C /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment:PersistentLevel.BP_ToxicPoolFuncTest_C_0
+[2024.10.26-15.17.36:953][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.26-15.17.36:993][434]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2024.10.26-15.17.37:001][434]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C
+[2024.10.26-15.17.37:001][434]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C
+[2024.10.26-15.17.37:003][434]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest as actor: BP_ToxicPoolFuncTest_C /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment:PersistentLevel.BP_ToxicPoolFuncTest_C_1
+[2024.10.26-15.17.37:003][434]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest as actor: BP_ToxicPoolFuncTest_C /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment:PersistentLevel.BP_ToxicPoolFuncTest_C_1
+[2024.10.26-15.17.51:019][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.26-15.17.51:032][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.17.51:063][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([2] browsable assets)...
+[2024.10.26-15.17.51:063][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.26-15.17.51:065][ 22]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.26-15.17.51:066][ 22]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTest4BC7ED764E3923F1B16E7A8989108072.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.26-15.17.51:072][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.885 ms (total: 12.2 sec)
+[2024.10.26-15.17.51:112][ 22]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.17.51:112][ 22]LogContentValidation: Enabled validators:
+[2024.10.26-15.17.51:112][ 22]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.17.51:112][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.17.51:112][ 22]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.17.51:112][ 22]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.26-15.17.51:112][ 22]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.26-15.17.52:976][209]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.10.26-15.17.52:976][209]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.10.26-15.18.21:896][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.18.21:954][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.26-15.18.21:971][286]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment
+[2024.10.26-15.18.21:971][286]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/FTEST_PrototypeEnvironment8E6B831A4D1A1876ED222284E42B6230.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Maps/FTEST_PrototypeEnvironment.umap'
+[2024.10.26-15.18.21:977][286]LogFileHelpers: Saving map 'FTEST_PrototypeEnvironment' took 0.047
+[2024.10.26-15.18.21:982][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.013 ms (total: 12.3 sec)
+[2024.10.26-15.18.22:030][286]LogContentValidation: Display: Starting to validate 2 assets
+[2024.10.26-15.18.22:030][286]LogContentValidation: Enabled validators:
+[2024.10.26-15.18.22:030][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.18.22:030][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.18.22:030][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.18.22:030][286]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment
+[2024.10.26-15.18.22:031][286]AssetCheck: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment Validating asset
+[2024.10.26-15.18.22:031][286]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.Default__FTEST_PrototypeEnvironment_C_2
+[2024.10.26-15.18.22:031][286]AssetCheck: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment Validating asset
+[2024.10.26-15.18.57:341][116]LogEditorTransaction: Undo Create Pin Link
+[2024.10.26-15.18.58:794][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.26-15.18.58:808][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.18.58:866][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([2] browsable assets)...
+[2024.10.26-15.18.58:866][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.26-15.18.58:868][226]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.26-15.18.58:869][226]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTest3DB9DC114D58D2AF74C10997F8A0E760.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.26-15.18.58:875][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.868 ms (total: 12.3 sec)
+[2024.10.26-15.18.58:916][226]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.18.58:916][226]LogContentValidation: Enabled validators:
+[2024.10.26-15.18.58:916][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.18.58:916][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.18.58:916][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.18.58:916][226]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.26-15.18.58:916][226]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.26-15.19.02:930][648]LogAutomationController: Requesting test list from C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.19.02:933][648]LogAutomationWorker: Received RequestTestsMessage from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.19.02:954][648]LogAutomationWorker: Set 4082 tests to 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.19.02:954][648]LogAutomationController: Received RequestTestsReplyCompleteMessage from C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.19.02:956][648]LogAutomationController: 4082 tests available on C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.19.10:037][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.26-15.19.11:850][486]LogSlate: Window 'Save Content' being destroyed
+[2024.10.26-15.19.11:856][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.19.11:898][486]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Materials/Mat_ToxicPool] ([1] browsable assets)...
+[2024.10.26-15.19.11:898][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Materials/Mat_ToxicPool]
+[2024.10.26-15.19.11:899][486]LogSavePackage: Moving output files for package: /Game/Models/Materials/Mat_ToxicPool
+[2024.10.26-15.19.11:899][486]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Mat_ToxicPool32BD5A854E737A59B2EAFBAF313FD4F7.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Models/Materials/Mat_ToxicPool.uasset'
+[2024.10.26-15.19.11:905][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.578 ms (total: 12.4 sec)
+[2024.10.26-15.19.11:934][486]LogAutomationController: Sending StartTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.19.11:934][486]LogAutomationController: Display: Clearing ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Logs/ and ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Tmp/
+[2024.10.26-15.19.11:934][486]AutomationTestingLog: -----Test Run 66----
+[2024.10.26-15.19.11:967][486]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.19.11:967][486]LogContentValidation: Enabled validators:
+[2024.10.26-15.19.11:967][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.19.11:967][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.19.11:967][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.19.11:967][486]LogContentValidation: Display: Validating asset /Game/Models/Materials/Mat_ToxicPool.Mat_ToxicPool
+[2024.10.26-15.19.11:967][486]AssetCheck: /Game/Models/Materials/Mat_ToxicPool Validating asset
+[2024.10.26-15.19.11:980][486]LogAutomationController: Sending RunTest BP_ToxicPoolFuncTest to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.19.11:980][486]LogAutomationController: Display: Test Started. Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.19.11:980][486]LogAutomationWorker: Received StartTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.19.11:980][486]LogAutomationWorker: Received RunTests BP_ToxicPoolFuncTest from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.19.11:980][486]LogEditor: Starting PIE for the automation tests for world, FTEST_PrototypeEnvironment
+[2024.10.26-15.19.11:987][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.26-15.19.11:987][486]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.19.11:991][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003855s)
+[2024.10.26-15.19.11:991][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.003881s)
+[2024.10.26-15.19.12:003][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.26-15.19.12:007][486]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.26-15.19.12:007][486]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2024.10.26-15.19.12:012][486]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2024.10.26-15.19.12:013][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.26-15.19.12:013][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.26-15.19.12:013][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.26-15.19.12:013][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.26-15.19.12:013][486]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.26-15.19.12:013][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.26-15.19.12:013][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.26-15.19.12:013][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.26-15.19.12:013][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.26-15.19.12:013][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.26-15.19.12:013][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.26-15.19.12:014][486]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.26-15.19.12:031][486]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.26-15.19.12:031][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.26-15.19.12:031][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.26-15.19.12:031][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.26-15.19.12:032][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2024.10.26-15.19.12:032][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2024.10.26-15.19.12:033][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2024.10.26-15.19.12:033][486]LogInit: FAudioDevice initialized with ID 90.
+[2024.10.26-15.19.12:033][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2024.10.26-15.19.12:033][486]LogAudio: Display: Audio Device (ID: 90) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.26-15.19.12:033][486]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 90
+[2024.10.26-15.19.12:083][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.19.12:084][486]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.26-15.19.12:096][486]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.26-16.19.12
+[2024.10.26-15.19.12:097][486]LogWorld: Bringing up level for play took: 0.013670
+[2024.10.26-15.19.12:099][486]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2024.10.26-15.19.12:100][486]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.19.12:100][486]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.19.12:100][486]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.19.12:102][486]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.19.12:108][486]PIE: Server logged in
+[2024.10.26-15.19.12:109][486]PIE: Play in editor total start time 0.128 seconds.
+[2024.10.26-15.19.12:127][487]LogFunctionalTest: Running tests indicated by Repro String: BP_ToxicPoolFuncTest_C_1
+[2024.10.26-15.19.12:293][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.26-15.19.16:686][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.19.16:686][803]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.19.16:687][803]LogSlate: Window 'anitadev Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.26-15.19.16:719][803]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-15.19.16:720][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.19.16:720][803]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.26-15.19.16:720][803]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.26-15.19.16:750][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.26-15.19.16:754][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.19.16:764][803]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 90
+[2024.10.26-15.19.16:764][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2024.10.26-15.19.16:766][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2024.10.26-15.19.16:772][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.26-15.19.16:812][804]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2024.10.26-15.19.16:822][805]LogAutomationController: Error: Test Completed. Result={Fail} Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.19.16:822][805]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.19.16:822][805]LogAutomationController: Error: BP_ToxicPoolFuncTest: FinishTest TestResult=Invalid. Test was aborted
+[2024.10.26-15.19.16:822][805]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.19.16:829][805]LogAutomationController: Sending StopTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.19.16:829][805]LogAutomationWorker: Received StopTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.19.18:413][996]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.19.18:417][996]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.22.48:845][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.26-15.22.48:863][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.22.48:921][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([2] browsable assets)...
+[2024.10.26-15.22.48:921][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.26-15.22.48:924][910]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.26-15.22.48:924][910]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTest902A06A849E99BB0F0EFA4B9FBC4B692.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.26-15.22.48:931][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.980 ms (total: 12.4 sec)
+[2024.10.26-15.22.48:988][910]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.22.48:988][910]LogContentValidation: Enabled validators:
+[2024.10.26-15.22.48:988][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.22.48:988][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.22.48:988][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.22.48:988][910]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.26-15.22.48:988][910]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.26-15.22.55:376][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.26-15.22.55:440][577]LogAutomationController: Sending StartTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.22.55:440][577]LogAutomationController: Display: Clearing ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Logs/ and ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Tmp/
+[2024.10.26-15.22.55:440][577]AutomationTestingLog: -----Test Run 67----
+[2024.10.26-15.22.55:450][577]LogAutomationController: Sending RunTest BP_ToxicPoolFuncTest to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.22.55:450][577]LogAutomationController: Display: Test Started. Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.22.55:450][577]LogAutomationWorker: Received StartTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.22.55:450][577]LogAutomationWorker: Received RunTests BP_ToxicPoolFuncTest from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.22.55:450][577]LogEditor: Starting PIE for the automation tests for world, FTEST_PrototypeEnvironment
+[2024.10.26-15.22.55:452][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.26-15.22.55:452][577]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.22.55:456][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003882s)
+[2024.10.26-15.22.55:456][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.003910s)
+[2024.10.26-15.22.55:467][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.26-15.22.55:469][577]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.26-15.22.55:470][577]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2024.10.26-15.22.55:476][577]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2024.10.26-15.22.55:476][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.26-15.22.55:476][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.26-15.22.55:476][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.26-15.22.55:476][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.26-15.22.55:476][577]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.26-15.22.55:476][577]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.26-15.22.55:476][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.26-15.22.55:476][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.26-15.22.55:476][577]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.26-15.22.55:476][577]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.26-15.22.55:476][577]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.26-15.22.55:477][577]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.26-15.22.55:494][577]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.26-15.22.55:494][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.26-15.22.55:494][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.26-15.22.55:494][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.26-15.22.55:495][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2024.10.26-15.22.55:495][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2024.10.26-15.22.55:496][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2024.10.26-15.22.55:496][577]LogInit: FAudioDevice initialized with ID 91.
+[2024.10.26-15.22.55:496][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2024.10.26-15.22.55:496][577]LogAudio: Display: Audio Device (ID: 91) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.26-15.22.55:496][577]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 91
+[2024.10.26-15.22.55:555][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.22.55:556][577]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.26-15.22.55:570][577]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.26-16.22.55
+[2024.10.26-15.22.55:571][577]LogWorld: Bringing up level for play took: 0.014901
+[2024.10.26-15.22.55:573][577]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2024.10.26-15.22.55:573][577]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.22.55:573][577]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.22.55:573][577]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.22.55:575][577]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.22.55:581][577]PIE: Server logged in
+[2024.10.26-15.22.55:582][577]PIE: Play in editor total start time 0.131 seconds.
+[2024.10.26-15.22.55:600][578]LogFunctionalTest: Running tests indicated by Repro String: BP_ToxicPoolFuncTest_C_1
+[2024.10.26-15.22.55:740][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.26-15.22.57:874][744]LogAutomationController: Error: Test Completed. Result={Fail} Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.22.57:874][744]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.22.57:874][744]LogAutomationController: Error: BP_ToxicPoolFuncTest: FinishTest TestResult=Failed. Time's Up.. Test timed out in 2.013 seconds
+[2024.10.26-15.22.57:874][744]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.22.57:902][745]LogAutomationController: Sending StopTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.22.57:902][745]LogAutomationWorker: Received StopTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.22.57:933][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.22.57:933][746]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.22.57:934][746]LogSlate: Window 'anitadev Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.26-15.22.57:938][746]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-15.22.57:939][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.22.57:939][746]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.26-15.22.57:939][746]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.26-15.22.57:952][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.26-15.22.57:956][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.22.57:966][746]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 91
+[2024.10.26-15.22.57:966][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2024.10.26-15.22.57:968][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2024.10.26-15.22.57:975][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.26-15.22.58:020][747]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2024.10.26-15.23.05:615][653]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.23.05:620][653]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.25.18:158][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.26-15.25.18:177][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.25.18:225][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([2] browsable assets)...
+[2024.10.26-15.25.18:225][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.26-15.25.18:229][800]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.26-15.25.18:229][800]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTestEAE7E4BA4BD445767A98DC930D5891DE.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.26-15.25.18:235][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.813 ms (total: 12.5 sec)
+[2024.10.26-15.25.18:291][800]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.25.18:291][800]LogContentValidation: Enabled validators:
+[2024.10.26-15.25.18:291][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.25.18:291][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.25.18:291][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.25.18:291][800]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.26-15.25.18:291][800]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.26-15.25.21:483][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.26-15.25.21:543][108]LogAutomationController: Sending StartTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.25.21:543][108]LogAutomationController: Display: Clearing ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Logs/ and ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Tmp/
+[2024.10.26-15.25.21:543][108]AutomationTestingLog: -----Test Run 68----
+[2024.10.26-15.25.21:551][108]LogAutomationController: Sending RunTest BP_ToxicPoolFuncTest to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.25.21:551][108]LogAutomationController: Display: Test Started. Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.25.21:551][108]LogAutomationWorker: Received StartTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.25.21:551][108]LogAutomationWorker: Received RunTests BP_ToxicPoolFuncTest from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.25.21:551][108]LogEditor: Starting PIE for the automation tests for world, FTEST_PrototypeEnvironment
+[2024.10.26-15.25.21:553][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.26-15.25.21:553][108]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.25.21:558][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003923s)
+[2024.10.26-15.25.21:558][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.003950s)
+[2024.10.26-15.25.21:570][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.26-15.25.21:573][108]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.26-15.25.21:574][108]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2024.10.26-15.25.21:579][108]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2024.10.26-15.25.21:579][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.26-15.25.21:579][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.26-15.25.21:579][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.26-15.25.21:579][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.26-15.25.21:579][108]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.26-15.25.21:579][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.26-15.25.21:579][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.26-15.25.21:579][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.26-15.25.21:579][108]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.26-15.25.21:579][108]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.26-15.25.21:579][108]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.26-15.25.21:581][108]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.26-15.25.21:596][108]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.26-15.25.21:596][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.26-15.25.21:596][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.26-15.25.21:596][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.26-15.25.21:596][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2024.10.26-15.25.21:596][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2024.10.26-15.25.21:598][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2024.10.26-15.25.21:598][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2024.10.26-15.25.21:598][108]LogInit: FAudioDevice initialized with ID 92.
+[2024.10.26-15.25.21:598][108]LogAudio: Display: Audio Device (ID: 92) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.26-15.25.21:598][108]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 92
+[2024.10.26-15.25.21:643][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.25.21:643][108]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.26-15.25.21:657][108]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.26-16.25.21
+[2024.10.26-15.25.21:658][108]LogWorld: Bringing up level for play took: 0.015183
+[2024.10.26-15.25.21:660][108]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2024.10.26-15.25.21:661][108]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.25.21:661][108]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.25.21:661][108]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.25.21:663][108]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.25.21:669][108]PIE: Server logged in
+[2024.10.26-15.25.21:670][108]PIE: Play in editor total start time 0.118 seconds.
+[2024.10.26-15.25.21:689][109]LogFunctionalTest: Running tests indicated by Repro String: BP_ToxicPoolFuncTest_C_1
+[2024.10.26-15.25.21:798][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.26-15.25.22:219][119]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_ToxicPoolFuncTest_C /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment:PersistentLevel.BP_ToxicPoolFuncTest_C_1
+	Function /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C:ExecuteUbergraph_BP_ToxicPoolFuncTest:006F
+[2024.10.26-15.25.22:272][119]PIE: Error: Infinite loop detected. Blueprint:  BP_ToxicPoolFuncTest Function:  Outputs Call Stack:  Show
+[2024.10.26-15.25.22:307][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.25.22:307][119]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.25.22:308][119]LogSlate: Window 'anitadev Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.26-15.25.22:314][119]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-15.25.22:315][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.25.22:315][119]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.26-15.25.22:315][119]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.26-15.25.22:327][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.26-15.25.22:332][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.25.22:345][119]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 92
+[2024.10.26-15.25.22:345][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2024.10.26-15.25.22:346][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2024.10.26-15.25.22:352][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.26-15.25.22:433][120]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2024.10.26-15.25.22:494][121]LogAutomationController: Error: Test Completed. Result={Fail} Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.25.22:494][121]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.25.22:494][121]LogAutomationController: Error: LogScript: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_ToxicPoolFuncTest_C /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment:PersistentLevel.BP_ToxicPoolFuncTest_C_1
+	Function /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C:ExecuteUbergraph_BP_ToxicPoolFuncTest:006F [log]
+[2024.10.26-15.25.22:494][121]LogAutomationController: Error: PIE: Infinite loop detected. Blueprint:  BP_ToxicPoolFuncTest Function:  Outputs Call Stack:  Show [log]
+[2024.10.26-15.25.22:494][121]LogAutomationController: Error: BP_ToxicPoolFuncTest: FinishTest TestResult=Invalid. Test was aborted
+[2024.10.26-15.25.22:494][121]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.25.22:508][121]LogAutomationController: Sending StopTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.25.22:508][121]LogAutomationWorker: Received StopTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.25.31:097][152]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.25.31:102][152]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.27.03:092][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.26-15.27.03:112][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.27.03:165][658]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([2] browsable assets)...
+[2024.10.26-15.27.03:165][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.26-15.27.03:168][658]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.26-15.27.03:169][658]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTest320D0FE04D455DFBA3DB0EAFE350BAD7.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.26-15.27.03:174][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.637 ms (total: 12.6 sec)
+[2024.10.26-15.27.03:228][658]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.27.03:228][658]LogContentValidation: Enabled validators:
+[2024.10.26-15.27.03:228][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.27.03:228][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.27.03:228][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.27.03:228][658]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.26-15.27.03:228][658]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.26-15.27.05:562][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.26-15.27.05:596][895]LogAutomationController: Sending StartTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.27.05:596][895]LogAutomationController: Display: Clearing ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Logs/ and ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Tmp/
+[2024.10.26-15.27.05:596][895]AutomationTestingLog: -----Test Run 69----
+[2024.10.26-15.27.05:605][895]LogAutomationController: Sending RunTest BP_ToxicPoolFuncTest to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.27.05:605][895]LogAutomationController: Display: Test Started. Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.27.05:605][895]LogAutomationWorker: Received StartTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.27.05:605][895]LogAutomationWorker: Received RunTests BP_ToxicPoolFuncTest from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.27.05:605][895]LogEditor: Starting PIE for the automation tests for world, FTEST_PrototypeEnvironment
+[2024.10.26-15.27.05:607][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.26-15.27.05:607][895]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.27.05:611][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003860s)
+[2024.10.26-15.27.05:611][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.003885s)
+[2024.10.26-15.27.05:624][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.26-15.27.05:627][895]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.26-15.27.05:628][895]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2024.10.26-15.27.05:633][895]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2024.10.26-15.27.05:633][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.26-15.27.05:633][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.26-15.27.05:633][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.26-15.27.05:633][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.26-15.27.05:633][895]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.26-15.27.05:633][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.26-15.27.05:633][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.26-15.27.05:633][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.26-15.27.05:633][895]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.26-15.27.05:633][895]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.26-15.27.05:633][895]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.26-15.27.05:635][895]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.26-15.27.05:651][895]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.26-15.27.05:652][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.26-15.27.05:652][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.26-15.27.05:652][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.26-15.27.05:652][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2024.10.26-15.27.05:652][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2024.10.26-15.27.05:653][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2024.10.26-15.27.05:653][895]LogInit: FAudioDevice initialized with ID 93.
+[2024.10.26-15.27.05:653][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2024.10.26-15.27.05:653][895]LogAudio: Display: Audio Device (ID: 93) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.26-15.27.05:653][895]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 93
+[2024.10.26-15.27.05:696][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.27.05:696][895]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.26-15.27.05:709][895]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.26-16.27.05
+[2024.10.26-15.27.05:711][895]LogWorld: Bringing up level for play took: 0.014114
+[2024.10.26-15.27.05:712][895]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2024.10.26-15.27.05:713][895]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.27.05:713][895]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.27.05:713][895]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.27.05:715][895]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.27.05:721][895]PIE: Server logged in
+[2024.10.26-15.27.05:722][895]PIE: Play in editor total start time 0.116 seconds.
+[2024.10.26-15.27.05:741][896]LogFunctionalTest: Running tests indicated by Repro String: BP_ToxicPoolFuncTest_C_1
+[2024.10.26-15.27.05:847][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.26-15.27.08:017][ 67]LogAutomationController: Error: Test Completed. Result={Fail} Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.27.08:017][ 67]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.27.08:017][ 67]LogAutomationController: Error: BP_ToxicPoolFuncTest: FinishTest TestResult=Failed. Time's Up.. Test timed out in 2.009 seconds
+[2024.10.26-15.27.08:017][ 67]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.27.08:043][ 68]LogAutomationController: Sending StopTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.27.08:043][ 68]LogAutomationWorker: Received StopTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.27.08:090][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.27.08:090][ 69]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.27.08:091][ 69]LogSlate: Window 'anitadev Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.26-15.27.08:096][ 69]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-15.27.08:097][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.27.08:097][ 69]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.26-15.27.08:097][ 69]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.26-15.27.08:111][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.26-15.27.08:115][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.27.08:127][ 69]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 93
+[2024.10.26-15.27.08:127][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2024.10.26-15.27.08:130][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2024.10.26-15.27.08:136][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.26-15.27.08:180][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2024.10.26-15.27.10:739][377]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.27.10:744][377]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.27.32:274][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.26-15.27.32:294][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.27.32:347][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([2] browsable assets)...
+[2024.10.26-15.27.32:347][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.26-15.27.32:351][808]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.26-15.27.32:352][808]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTest370C60C243E2B80F36BDAC86C9F6850D.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.26-15.27.32:358][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.073 ms (total: 12.6 sec)
+[2024.10.26-15.27.32:414][808]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.27.32:414][808]LogContentValidation: Enabled validators:
+[2024.10.26-15.27.32:414][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.27.32:414][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.27.32:414][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.27.32:414][808]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.26-15.27.32:414][808]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.26-15.27.39:777][514]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.10.26-15.27.41:253][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.27.41:321][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.26-15.27.41:336][677]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment
+[2024.10.26-15.27.41:337][677]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/FTEST_PrototypeEnvironment057E41064773E80C088550992E724CCB.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Maps/FTEST_PrototypeEnvironment.umap'
+[2024.10.26-15.27.41:342][677]LogFileHelpers: Saving map 'FTEST_PrototypeEnvironment' took 0.046
+[2024.10.26-15.27.41:350][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.794 ms (total: 12.7 sec)
+[2024.10.26-15.27.41:397][677]LogContentValidation: Display: Starting to validate 2 assets
+[2024.10.26-15.27.41:397][677]LogContentValidation: Enabled validators:
+[2024.10.26-15.27.41:397][677]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.27.41:397][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.27.41:397][677]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.27.41:397][677]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment
+[2024.10.26-15.27.41:397][677]AssetCheck: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment Validating asset
+[2024.10.26-15.27.41:397][677]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.Default__FTEST_PrototypeEnvironment_C_2
+[2024.10.26-15.27.41:397][677]AssetCheck: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment Validating asset
+[2024.10.26-15.27.43:476][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.26-15.27.43:530][914]LogAutomationController: Sending StartTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.27.43:530][914]LogAutomationController: Display: Clearing ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Logs/ and ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Tmp/
+[2024.10.26-15.27.43:530][914]AutomationTestingLog: -----Test Run 70----
+[2024.10.26-15.27.43:539][914]LogAutomationController: Sending RunTest BP_ToxicPoolFuncTest to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.27.43:539][914]LogAutomationController: Display: Test Started. Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.27.43:539][914]LogAutomationWorker: Received StartTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.27.43:539][914]LogAutomationWorker: Received RunTests BP_ToxicPoolFuncTest from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.27.43:539][914]LogEditor: Starting PIE for the automation tests for world, FTEST_PrototypeEnvironment
+[2024.10.26-15.27.43:541][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.26-15.27.43:541][914]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.27.43:545][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003559s)
+[2024.10.26-15.27.43:545][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.003585s)
+[2024.10.26-15.27.43:558][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.26-15.27.43:560][914]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.26-15.27.43:561][914]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2024.10.26-15.27.43:568][914]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2024.10.26-15.27.43:568][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.26-15.27.43:568][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.26-15.27.43:568][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.26-15.27.43:568][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.26-15.27.43:568][914]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.26-15.27.43:568][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.26-15.27.43:568][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.26-15.27.43:568][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.26-15.27.43:568][914]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.26-15.27.43:568][914]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.26-15.27.43:568][914]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.26-15.27.43:569][914]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.26-15.27.43:585][914]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.26-15.27.43:585][914]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.26-15.27.43:585][914]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.26-15.27.43:585][914]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.26-15.27.43:586][914]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2024.10.26-15.27.43:586][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2024.10.26-15.27.43:587][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2024.10.26-15.27.43:587][914]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2024.10.26-15.27.43:587][914]LogInit: FAudioDevice initialized with ID 94.
+[2024.10.26-15.27.43:587][914]LogAudio: Display: Audio Device (ID: 94) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.26-15.27.43:587][914]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 94
+[2024.10.26-15.27.43:627][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.27.43:627][914]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.26-15.27.43:640][914]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.26-16.27.43
+[2024.10.26-15.27.43:642][914]LogWorld: Bringing up level for play took: 0.014595
+[2024.10.26-15.27.43:644][914]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2024.10.26-15.27.43:644][914]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.27.43:644][914]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.27.43:644][914]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.27.43:646][914]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.27.43:652][914]PIE: Server logged in
+[2024.10.26-15.27.43:652][914]PIE: Play in editor total start time 0.112 seconds.
+[2024.10.26-15.27.43:671][915]LogFunctionalTest: Running tests indicated by Repro String: BP_ToxicPoolFuncTest_C_1
+[2024.10.26-15.27.43:781][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.26-15.27.44:929][973]LogAutomationController: Error: Test Completed. Result={Fail} Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.27.44:929][973]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.27.44:929][973]LogAutomationController: Error: BP_ToxicPoolFuncTest: FinishTest TestResult=Failed. 
+[2024.10.26-15.27.44:929][973]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.27.44:961][974]LogAutomationController: Sending StopTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.27.44:962][974]LogAutomationWorker: Received StopTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.27.44:991][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.27.44:991][975]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.27.44:992][975]LogSlate: Window 'anitadev Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.26-15.27.45:021][975]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-15.27.45:022][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.27.45:022][975]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.26-15.27.45:022][975]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.26-15.27.45:036][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.26-15.27.45:041][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.27.45:052][975]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 94
+[2024.10.26-15.27.45:052][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2024.10.26-15.27.45:053][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2024.10.26-15.27.45:060][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.26-15.27.45:098][976]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2024.10.26-15.27.59:611][604]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.27.59:616][604]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.29.25:116][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.26-15.29.25:140][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.29.25:183][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([2] browsable assets)...
+[2024.10.26-15.29.25:184][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.26-15.29.25:188][432]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.26-15.29.25:188][432]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTestCD4D2F354CE92C5C228322A7508D97CE.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.26-15.29.25:194][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.413 ms (total: 12.8 sec)
+[2024.10.26-15.29.25:233][432]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.29.25:233][432]LogContentValidation: Enabled validators:
+[2024.10.26-15.29.25:233][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.29.25:233][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.29.25:233][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.29.25:233][432]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.26-15.29.25:233][432]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.26-15.29.27:188][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.26-15.29.27:250][633]LogAutomationController: Sending StartTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.29.27:250][633]LogAutomationController: Display: Clearing ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Logs/ and ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Tmp/
+[2024.10.26-15.29.27:250][633]AutomationTestingLog: -----Test Run 71----
+[2024.10.26-15.29.27:260][633]LogAutomationController: Sending RunTest BP_ToxicPoolFuncTest to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.29.27:260][633]LogAutomationController: Display: Test Started. Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.29.27:260][633]LogAutomationWorker: Received StartTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.29.27:260][633]LogAutomationWorker: Received RunTests BP_ToxicPoolFuncTest from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.29.27:260][633]LogEditor: Starting PIE for the automation tests for world, FTEST_PrototypeEnvironment
+[2024.10.26-15.29.27:263][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.26-15.29.27:263][633]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.29.27:267][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004202s)
+[2024.10.26-15.29.27:267][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.004230s)
+[2024.10.26-15.29.27:277][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.26-15.29.27:280][633]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.26-15.29.27:280][633]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2024.10.26-15.29.27:285][633]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2024.10.26-15.29.27:285][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.26-15.29.27:285][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.26-15.29.27:285][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.26-15.29.27:285][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.26-15.29.27:285][633]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.26-15.29.27:285][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.26-15.29.27:285][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.26-15.29.27:285][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.26-15.29.27:285][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.26-15.29.27:285][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.26-15.29.27:285][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.26-15.29.27:286][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.26-15.29.27:303][633]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.26-15.29.27:303][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.26-15.29.27:303][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.26-15.29.27:303][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.26-15.29.27:304][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2024.10.26-15.29.27:304][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2024.10.26-15.29.27:305][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2024.10.26-15.29.27:305][633]LogInit: FAudioDevice initialized with ID 95.
+[2024.10.26-15.29.27:305][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2024.10.26-15.29.27:305][633]LogAudio: Display: Audio Device (ID: 95) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.26-15.29.27:305][633]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 95
+[2024.10.26-15.29.27:350][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.29.27:350][633]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.26-15.29.27:364][633]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.26-16.29.27
+[2024.10.26-15.29.27:365][633]LogWorld: Bringing up level for play took: 0.014756
+[2024.10.26-15.29.27:367][633]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2024.10.26-15.29.27:367][633]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.29.27:367][633]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.29.27:367][633]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.29.27:369][633]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.29.27:375][633]PIE: Server logged in
+[2024.10.26-15.29.27:376][633]PIE: Play in editor total start time 0.114 seconds.
+[2024.10.26-15.29.27:394][634]LogFunctionalTest: Running tests indicated by Repro String: BP_ToxicPoolFuncTest_C_1
+[2024.10.26-15.29.27:502][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.26-15.29.28:673][693]LogAutomationController: Error: Test Completed. Result={Fail} Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.29.28:673][693]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.29.28:673][693]LogAutomationController: Error: BP_ToxicPoolFuncTest: FinishTest TestResult=Failed. Initial HP33
+[2024.10.26-15.29.28:673][693]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.29.28:706][694]LogAutomationController: Sending StopTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.29.28:706][694]LogAutomationWorker: Received StopTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.29.28:734][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.29.28:734][695]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.29.28:734][695]LogSlate: Window 'anitadev Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.26-15.29.28:765][695]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-15.29.28:766][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.29.28:766][695]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.26-15.29.28:766][695]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.26-15.29.28:784][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.26-15.29.28:789][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.29.28:800][695]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 95
+[2024.10.26-15.29.28:800][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2024.10.26-15.29.28:801][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2024.10.26-15.29.28:808][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.26-15.29.28:847][696]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2024.10.26-15.29.36:585][624]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.29.36:590][624]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.32.50:274][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.26-15.32.50:298][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.26-15.32.50:359][168]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_ToxicPool] ([2] browsable assets)...
+[2024.10.26-15.32.50:431][168]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_ToxicPool.BP_ToxicPool]
+[2024.10.26-15.32.50:431][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ToxicPool]
+[2024.10.26-15.32.50:431][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ToxicPool" FILE="../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/BP_ToxicPool.uasset" SILENT=true
+[2024.10.26-15.32.50:437][168]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ToxicPool
+[2024.10.26-15.32.50:437][168]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolB6B02D034210C78739DC23A4771AD13D.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/BP_ToxicPool.uasset'
+[2024.10.26-15.32.50:443][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.202 ms (total: 12.9 sec)
+[2024.10.26-15.32.50:472][168]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.26-15.32.50:472][168]LogContentValidation: Enabled validators:
+[2024.10.26-15.32.50:472][168]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.26-15.32.50:472][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.26-15.32.50:472][168]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.26-15.32.50:472][168]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_ToxicPool.BP_ToxicPool
+[2024.10.26-15.32.50:472][168]AssetCheck: /Game/Blueprints/BP_ToxicPool Validating asset
+[2024.10.26-15.32.52:382][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.26-15.32.52:438][364]LogAutomationController: Sending StartTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.32.52:438][364]LogAutomationController: Display: Clearing ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Logs/ and ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Tmp/
+[2024.10.26-15.32.52:440][364]AutomationTestingLog: -----Test Run 72----
+[2024.10.26-15.32.52:449][364]LogAutomationController: Sending RunTest BP_ToxicPoolFuncTest to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.32.52:449][364]LogAutomationController: Display: Test Started. Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.32.52:449][364]LogAutomationWorker: Received StartTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.32.52:449][364]LogAutomationWorker: Received RunTests BP_ToxicPoolFuncTest from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.32.52:449][364]LogEditor: Starting PIE for the automation tests for world, FTEST_PrototypeEnvironment
+[2024.10.26-15.32.52:451][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.26-15.32.52:451][364]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.32.52:455][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003646s)
+[2024.10.26-15.32.52:455][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.003670s)
+[2024.10.26-15.32.52:464][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.26-15.32.52:467][364]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.26-15.32.52:468][364]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2024.10.26-15.32.52:474][364]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2024.10.26-15.32.52:474][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.26-15.32.52:474][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.26-15.32.52:474][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.26-15.32.52:474][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.26-15.32.52:474][364]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.26-15.32.52:474][364]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.26-15.32.52:474][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.26-15.32.52:474][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.26-15.32.52:474][364]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.26-15.32.52:474][364]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.26-15.32.52:474][364]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.26-15.32.52:475][364]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.26-15.32.52:492][364]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.26-15.32.52:492][364]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.26-15.32.52:492][364]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.26-15.32.52:492][364]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.26-15.32.52:493][364]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=96
+[2024.10.26-15.32.52:493][364]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=96
+[2024.10.26-15.32.52:494][364]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=96
+[2024.10.26-15.32.52:494][364]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=96
+[2024.10.26-15.32.52:494][364]LogInit: FAudioDevice initialized with ID 96.
+[2024.10.26-15.32.52:494][364]LogAudio: Display: Audio Device (ID: 96) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.26-15.32.52:494][364]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 96
+[2024.10.26-15.32.52:540][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.32.52:540][364]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.26-15.32.52:553][364]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.26-16.32.52
+[2024.10.26-15.32.52:554][364]LogWorld: Bringing up level for play took: 0.014686
+[2024.10.26-15.32.52:556][364]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2024.10.26-15.32.52:556][364]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.32.52:556][364]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.32.52:556][364]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.32.52:559][364]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.32.52:565][364]PIE: Server logged in
+[2024.10.26-15.32.52:565][364]PIE: Play in editor total start time 0.115 seconds.
+[2024.10.26-15.32.52:585][365]LogFunctionalTest: Running tests indicated by Repro String: BP_ToxicPoolFuncTest_C_1
+[2024.10.26-15.32.52:692][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.26-15.32.53:271][395]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_11] 2
+[2024.10.26-15.32.53:856][423]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.26-15.32.53:856][423]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.32.53:856][423]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.26-15.32.53:887][424]LogAutomationController: Sending StopTestSession to C3CCE9CE47B4F2F7EFF39EAEA68C7506
+[2024.10.26-15.32.53:887][424]LogAutomationWorker: Received StopTestSession from 39F5D6F94AFC9CA7C25B9BA1C796537E
+[2024.10.26-15.32.53:920][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.32.53:920][425]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.32.53:920][425]LogSlate: Window 'anitadev Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.26-15.32.53:947][425]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-15.32.53:949][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.32.53:949][425]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.26-15.32.53:949][425]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.26-15.32.53:994][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.26-15.32.53:998][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.32.54:011][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 96
+[2024.10.26-15.32.54:011][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2024.10.26-15.32.54:013][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2024.10.26-15.32.54:019][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.26-15.32.54:058][426]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2024.10.26-15.32.55:491][598]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.32.55:496][598]LogSlate: Window 'Message Log' being destroyed
+[2024.10.26-15.32.58:373][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.26-15.32.58:379][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.26-15.32.58:400][889]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.32.58:403][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004036s)
+[2024.10.26-15.32.58:403][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.004072s)
+[2024.10.26-15.32.58:414][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.26-15.32.58:418][889]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.26-15.32.58:419][889]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2024.10.26-15.32.58:424][889]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2024.10.26-15.32.58:424][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.26-15.32.58:424][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.26-15.32.58:424][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.26-15.32.58:424][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.26-15.32.58:424][889]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.26-15.32.58:424][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.26-15.32.58:424][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.26-15.32.58:424][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.26-15.32.58:424][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.26-15.32.58:424][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.26-15.32.58:424][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.26-15.32.58:426][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.26-15.32.58:441][889]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.26-15.32.58:441][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.26-15.32.58:441][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.26-15.32.58:441][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.26-15.32.58:442][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=97
+[2024.10.26-15.32.58:442][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=97
+[2024.10.26-15.32.58:443][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=97
+[2024.10.26-15.32.58:443][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=97
+[2024.10.26-15.32.58:443][889]LogInit: FAudioDevice initialized with ID 97.
+[2024.10.26-15.32.58:443][889]LogAudio: Display: Audio Device (ID: 97) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.26-15.32.58:443][889]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 97
+[2024.10.26-15.32.58:446][889]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.26-15.32.58:458][889]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.26-16.32.58
+[2024.10.26-15.32.58:459][889]LogWorld: Bringing up level for play took: 0.013483
+[2024.10.26-15.32.58:460][889]LogOnline: OSS: Created online subsystem instance for: :Context_132
+[2024.10.26-15.32.58:461][889]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.32.58:461][889]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.26-15.32.58:461][889]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.32.58:463][889]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.26-15.32.58:468][889]PIE: Server logged in
+[2024.10.26-15.32.58:469][889]PIE: Play in editor total start time 0.091 seconds.
+[2024.10.26-15.33.01:411][ 74]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2024.10.26-15.33.03:416][213]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2024.10.26-15.33.05:416][356]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Died
+[2024.10.26-15.33.05:416][356]LogBlueprintUserMessages: [BP_ToxicPool_C_3] Timer Stopped
+[2024.10.26-15.33.13:769][  6]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_12] 2
+[2024.10.26-15.33.14:404][ 49]LogBlueprintUserMessages: [BP_ToxicPool_C_3] Timer Stopped
+[2024.10.26-15.33.15:601][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.33.15:601][129]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.26-15.33.15:601][129]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-15.33.15:602][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.33.15:602][129]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.26-15.33.15:602][129]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.26-15.33.15:608][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.26-15.33.15:613][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-15.33.15:627][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-15.33.15:627][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 97
+[2024.10.26-15.33.15:627][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2024.10.26-15.33.15:628][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2024.10.26-15.33.15:635][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.26-15.33.15:698][130]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2024.10.26-15.33.51:851][385]LogEditorTransaction: Undo Rename Node
+[2024.10.26-15.33.52:492][403]LogEditorTransaction: Undo Add Node
+[2024.10.26-15.34.47:906][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.26-15.34.48:286][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
