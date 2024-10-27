@@ -5271,21 +5271,3 @@ Script Stack (0 frames) :
 [2024.10.27-12.56.39:419][734]LogOutputDevice: Error: [Callstack] 0x00007ffd2142257d KERNEL32.DLL!UnknownFunction []
 [2024.10.27-12.56.39:419][734]LogOutputDevice: Error: [Callstack] 0x00007ffd22b8af08 ntdll.dll!UnknownFunction []
 [2024.10.27-12.56.39:419][734]LogOutputDevice: Error: 
-[2024.10.27-12.56.39:420][734]LogStats:                SubmitErrorReport -  0.000 s
-[2024.10.27-12.56.40:171][734]LogStats:                    SendNewReport -  0.751 s
-[2024.10.27-12.56.40:171][734]LogStats:             FDebug::EnsureFailed -  0.763 s
-[2024.10.27-12.57.10:601][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.10.27-12.57.10:690][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
-[2024.10.27-12.57.10:709][210]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment
-[2024.10.27-12.57.10:709][210]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/FTEST_PrototypeEnvironment3F3E0680496E5168597A64932C9778CF.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Maps/FTEST_PrototypeEnvironment.umap'
-[2024.10.27-12.57.10:715][210]LogFileHelpers: Saving map 'FTEST_PrototypeEnvironment' took 0.051
-[2024.10.27-12.57.10:725][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.028 ms (total: 6.39 sec)
-[2024.10.27-12.57.10:779][210]LogContentValidation: Display: Starting to validate 2 assets
-[2024.10.27-12.57.10:779][210]LogContentValidation: Enabled validators:
-[2024.10.27-12.57.10:779][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
-[2024.10.27-12.57.10:779][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
-[2024.10.27-12.57.10:779][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
-[2024.10.27-12.57.10:779][210]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment
-[2024.10.27-12.57.10:779][210]AssetCheck: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment Validating asset
-[2024.10.27-12.57.10:780][210]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.Default__FTEST_PrototypeEnvironment_C_2
-[2024.10.27-12.57.10:780][210]AssetCheck: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment Validating asset
