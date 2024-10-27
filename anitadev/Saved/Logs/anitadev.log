@@ -2871,3 +2871,728 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.27-11.47.50:777][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.10.27-11.47.50:781][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
 [2024.10.27-11.47.50:844][434]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.10.27-11.48.30:057][742]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-11.48.30:057][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-11.48.30:063][742]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-11.48.30:063][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-11.48.30:096][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.27-11.49.43:414][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.27-11.49.43:487][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-11.49.43:544][975]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_InteractibleParent] ([2] browsable assets)...
+[2024.10.27-11.49.43:617][975]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_InteractibleParent.BP_InteractibleParent]
+[2024.10.27-11.49.43:617][975]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_InteractibleParent]
+[2024.10.27-11.49.43:625][975]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_InteractibleParent
+[2024.10.27-11.49.43:625][975]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_InteractibleParent86489CEE48C92BCA6B3583AE33ACF489.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/BP_InteractibleParent.uasset'
+[2024.10.27-11.49.43:633][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.155 ms (total: 3.43 sec)
+[2024.10.27-11.49.43:677][975]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.27-11.49.43:677][975]LogContentValidation: Enabled validators:
+[2024.10.27-11.49.43:677][975]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-11.49.43:677][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-11.49.43:677][975]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-11.49.43:677][975]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_InteractibleParent.BP_InteractibleParent
+[2024.10.27-11.49.43:677][975]AssetCheck: /Game/Blueprints/BP_InteractibleParent Validating asset
+[2024.10.27-11.50.02:876][201]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4223.759277
+[2024.10.27-11.50.03:042][219]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.10.27-11.50.03:042][219]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4223.915527, Update Interval: 355.894653
+[2024.10.27-11.50.46:339][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-11.50.46:396][282]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.27-11.50.46:458][282]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.27-11.50.46:458][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.27-11.50.46:479][282]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.27-11.50.46:480][282]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacterAD21457843C32C231581FE81F939D5DD.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.27-11.50.46:489][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.447 ms (total: 3.58 sec)
+[2024.10.27-11.50.46:546][282]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.27-11.50.46:546][282]LogContentValidation: Enabled validators:
+[2024.10.27-11.50.46:546][282]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-11.50.46:546][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-11.50.46:546][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-11.50.46:546][282]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.27-11.50.46:546][282]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.27-11.50.57:775][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-11.50.57:829][606]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.27-11.50.57:829][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.27-11.50.57:848][606]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.27-11.50.57:848][606]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter54EEFB88410177E0B2A352809B0CB5D8.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.27-11.50.57:857][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.626 ms (total: 3.66 sec)
+[2024.10.27-11.50.57:911][606]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.27-11.50.57:911][606]LogContentValidation: Enabled validators:
+[2024.10.27-11.50.57:911][606]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-11.50.57:911][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-11.50.57:911][606]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-11.50.57:911][606]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.27-11.50.57:911][606]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.27-11.51.14:656][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.27-11.51.14:750][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-11.51.14:797][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.27-11.51.14:856][570]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.27-11.51.14:856][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.27-11.51.14:875][570]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.27-11.51.14:875][570]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacter067ED47849A36E1D47A7CC8FB767C565.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.27-11.51.14:884][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.560 ms (total: 3.80 sec)
+[2024.10.27-11.51.14:946][570]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.27-11.51.14:946][570]LogContentValidation: Enabled validators:
+[2024.10.27-11.51.14:946][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-11.51.14:946][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-11.51.14:946][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-11.51.14:946][570]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.27-11.51.14:946][570]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.27-11.53.18:040][574]LogSlate: Window 'Loading Many Assets' being destroyed
+[2024.10.27-11.53.18:046][574]Message dialog closed, result: No, title: Loading Many Assets, text: About to load 21 assets. Are you sure you want to continue?
+[2024.10.27-11.53.18:104][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.BP_CalcBounceVelocityJumpingPlayerTest_C' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:104][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.SKEL_BP_CalcBounceVelocityJumpingPlayerTest_C' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:104][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.BP_CalcBounceVelocityJumpingPlayerTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:104][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.BP_CalcBounceVelocityJumpingPlayerTest_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:104][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.BP_CalcBounceVelocityJumpingPlayerTest_C:OnActorHit_Event' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:104][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.SKEL_BP_CalcBounceVelocityJumpingPlayerTest_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:104][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.SKEL_BP_CalcBounceVelocityJumpingPlayerTest_C:OnActorHit_Event' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:104][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.SKEL_BP_CalcBounceVelocityJumpingPlayerTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:104][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.SKEL_BP_CalcBounceVelocityJumpingPlayerTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:113][574]LogWorldPartition: Warning: Redirector loop detected for '/Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.Default__FTEST_PrototypeEnvironment_C_2' from '/Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.Default__FTEST_PrototypeEnvironment_C':
+  -> /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.Default__FTEST_PrototypeEnvironment_C_2
+  -> /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.Default__FTEST_PrototypeEnvironment_C_2
+[2024.10.27-11.53.18:116][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.BP_CalcBounceVelocityStaticPlayerTest_C' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:117][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.BP_CalcBounceVelocityStaticPlayerTest:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:117][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.BP_CalcBounceVelocityStaticPlayerTest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:117][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.SKEL_BP_CalcBounceVelocityStaticPlayerTest_C' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:117][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.BP_CalcBounceVelocityStaticPlayerTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:117][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.SKEL_BP_CalcBounceVelocityStaticPlayerTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:117][574]LogMetaData: Removing '/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.SKEL_BP_CalcBounceVelocityStaticPlayerTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.PackageMetaData'
+[2024.10.27-11.53.18:126][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.BP_DamageTakenLethalFunctionalTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:126][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.SKEL_BP_DamageTakenLethalFunctionalTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:126][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.BP_DamageTakenLethalFunctionalTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:126][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.SKEL_BP_DamageTakenLethalFunctionalTest_C:ReceivePrepareTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:126][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.SKEL_BP_DamageTakenLethalFunctionalTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:126][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.SKEL_BP_DamageTakenLethalFunctionalTest_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:126][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.SKEL_BP_DamageTakenLethalFunctionalTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:135][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.BP_DamageTakenNonLethalFunctionalTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:136][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.SKEL_BP_DamageTakenNonLethalFunctionalTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:136][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.BP_DamageTakenNonLethalFunctionalTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:136][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.SKEL_BP_DamageTakenNonLethalFunctionalTest_C:ReceivePrepareTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:136][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.SKEL_BP_DamageTakenNonLethalFunctionalTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:136][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.SKEL_BP_DamageTakenNonLethalFunctionalTest_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:136][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.SKEL_BP_DamageTakenNonLethalFunctionalTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.PackageMetaData'
+[2024.10.27-11.53.18:145][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.BP_HealthAboveZeroIsPlayerAliveTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:145][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.BP_HealthAboveZeroIsPlayerAliveTest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:145][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.BP_HealthAboveZeroIsPlayerAliveTest:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:145][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.SKEL_BP_HealthAboveZeroIsPlayerAliveTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:145][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.BP_HealthAboveZeroIsPlayerAliveTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:145][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.SKEL_BP_HealthAboveZeroIsPlayerAliveTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:145][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.SKEL_BP_HealthAboveZeroIsPlayerAliveTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:154][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.BP_HealthBelowZeroIsPlayerAliveTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:154][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.SKEL_BP_HealthBelowZeroIsPlayerAliveTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:154][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.BP_HealthBelowZeroIsPlayerAliveTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:154][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.SKEL_BP_HealthBelowZeroIsPlayerAliveTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:154][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.SKEL_BP_HealthBelowZeroIsPlayerAliveTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:164][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.BP_HealthIsZeroIsPlayerAliveTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:164][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.SKEL_BP_HealthIsZeroIsPlayerAliveTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:164][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.BP_HealthIsZeroIsPlayerAliveTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:164][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.SKEL_BP_HealthIsZeroIsPlayerAliveTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:164][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.SKEL_BP_HealthIsZeroIsPlayerAliveTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.PackageMetaData'
+[2024.10.27-11.53.18:173][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest.BP_NegativeDamageTakenTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:173][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest.SKEL_BP_NegativeDamageTakenTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:173][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest.BP_NegativeDamageTakenTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:173][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest.SKEL_BP_NegativeDamageTakenTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:173][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest.SKEL_BP_NegativeDamageTakenTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:184][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest.BP_PositiveDamageTakenTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:184][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest.SKEL_BP_PositiveDamageTakenTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:184][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest.BP_PositiveDamageTakenTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:184][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest.SKEL_BP_PositiveDamageTakenTest_C:ReceivePrepareTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:184][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest.SKEL_BP_PositiveDamageTakenTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:184][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest.SKEL_BP_PositiveDamageTakenTest_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:184][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest.SKEL_BP_PositiveDamageTakenTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.BP_ZeroDamageTakenTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.BP_ZeroDamageTakenTest:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.BP_ZeroDamageTakenTest:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.BP_ZeroDamageTakenTest:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.BP_ZeroDamageTakenTest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.SKEL_BP_ZeroDamageTakenTest_C' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.BP_ZeroDamageTakenTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.SKEL_BP_ZeroDamageTakenTest_C:ReceivePrepareTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.SKEL_BP_ZeroDamageTakenTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.SKEL_BP_ZeroDamageTakenTest_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:193][574]LogMetaData: Removing '/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.SKEL_BP_ZeroDamageTakenTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.PackageMetaData'
+[2024.10.27-11.53.18:202][574]LogMetaData: Removing '/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.PackageMetaData'
+[2024.10.27-11.53.18:202][574]LogMetaData: Removing '/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C' ref from Metadata '/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.PackageMetaData'
+[2024.10.27-11.53.18:202][574]LogMetaData: Removing '/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.PackageMetaData'
+[2024.10.27-11.53.18:202][574]LogMetaData: Removing '/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.SKEL_BP_ToxicPoolFuncTest_C' ref from Metadata '/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.PackageMetaData'
+[2024.10.27-11.53.18:202][574]LogMetaData: Removing '/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.PackageMetaData'
+[2024.10.27-11.53.18:202][574]LogMetaData: Removing '/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.PackageMetaData'
+[2024.10.27-11.53.18:202][574]LogMetaData: Removing '/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.SKEL_BP_ToxicPoolFuncTest_C:ReceiveStartTest' ref from Metadata '/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.PackageMetaData'
+[2024.10.27-11.53.18:202][574]LogMetaData: Removing '/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.SKEL_BP_ToxicPoolFuncTest_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.PackageMetaData'
+[2024.10.27-11.53.18:202][574]LogMetaData: Removing '/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.SKEL_BP_ToxicPoolFuncTest_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.PackageMetaData'
+[2024.10.27-11.53.18:212][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-11.53.18:268][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:268][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest]
+[2024.10.27-11.53.18:269][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest does not exist, will not scan.
+[2024.10.27-11.53.18:273][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest
+[2024.10.27-11.53.18:273][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_CalcBounceVelocityJumpingPlay919D500C4AF3E3E21AD04381C63A3B05.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.uasset'
+[2024.10.27-11.53.18:278][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:278][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest]
+[2024.10.27-11.53.18:279][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest
+[2024.10.27-11.53.18:279][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_CalcBounceVelocityJumpingPlay60CECB2D44D293BD9856AC9E31BB9D25.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.uasset'
+[2024.10.27-11.53.18:282][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:282][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest]
+[2024.10.27-11.53.18:282][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest does not exist, will not scan.
+[2024.10.27-11.53.18:285][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest
+[2024.10.27-11.53.18:285][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_CalcBounceVelocityStaticPlayeADDAD61747A6990CC1DAD998661003D0.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.uasset'
+[2024.10.27-11.53.18:288][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:288][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest]
+[2024.10.27-11.53.18:289][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest
+[2024.10.27-11.53.18:289][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_CalcBounceVelocityStaticPlayeA7F510EA42592604543F0FB107F52F4C.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.uasset'
+[2024.10.27-11.53.18:291][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:291][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest]
+[2024.10.27-11.53.18:291][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest does not exist, will not scan.
+[2024.10.27-11.53.18:294][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest
+[2024.10.27-11.53.18:294][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_DamageTakenLethalFunctionalTeF77DA5D74211FC650D7EC6830CDD4142.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.uasset'
+[2024.10.27-11.53.18:297][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:297][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest]
+[2024.10.27-11.53.18:298][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest
+[2024.10.27-11.53.18:298][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_DamageTakenLethalFunctionalTe283D532C4C3CA9043100AE9FE43780F5.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.uasset'
+[2024.10.27-11.53.18:300][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:300][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest]
+[2024.10.27-11.53.18:301][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest does not exist, will not scan.
+[2024.10.27-11.53.18:305][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest
+[2024.10.27-11.53.18:305][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_DamageTakenNonLethalFunctiona2A899E08474E9F7CF25726A0BCE44E40.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.uasset'
+[2024.10.27-11.53.18:308][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:308][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest]
+[2024.10.27-11.53.18:308][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest
+[2024.10.27-11.53.18:309][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_DamageTakenNonLethalFunctiona6AC7604E42359CA29122D2A2C7FD9943.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.uasset'
+[2024.10.27-11.53.18:311][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:311][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest]
+[2024.10.27-11.53.18:311][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest does not exist, will not scan.
+[2024.10.27-11.53.18:314][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:314][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_HealthAboveZeroIsPlayerAliveTFC7512B3455BA1E554AF7D9900856FEB.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.uasset'
+[2024.10.27-11.53.18:316][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:316][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest]
+[2024.10.27-11.53.18:317][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:317][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_HealthAboveZeroIsPlayerAliveT634CCEAD4B6CDE82CC4F1EBDD940425F.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.uasset'
+[2024.10.27-11.53.18:319][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:319][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest]
+[2024.10.27-11.53.18:319][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest does not exist, will not scan.
+[2024.10.27-11.53.18:322][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:322][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_HealthBelowZeroIsPlayerAliveTBA7C710F4104A65A5EDB9A900DB4373E.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.uasset'
+[2024.10.27-11.53.18:325][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:325][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest]
+[2024.10.27-11.53.18:325][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:326][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_HealthBelowZeroIsPlayerAliveTC535376D442132184C051DA0DD4664B7.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.uasset'
+[2024.10.27-11.53.18:329][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:329][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest]
+[2024.10.27-11.53.18:329][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest does not exist, will not scan.
+[2024.10.27-11.53.18:332][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:332][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_HealthIsZeroIsPlayerAliveTestB3752F5F4F5D870AF9E8F98F7E75AD5A.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.uasset'
+[2024.10.27-11.53.18:334][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:334][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest]
+[2024.10.27-11.53.18:334][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:335][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_HealthIsZeroIsPlayerAliveTest71C021F4470F85C5165E408C7D3AC485.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.uasset'
+[2024.10.27-11.53.18:337][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:337][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest]
+[2024.10.27-11.53.18:337][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest does not exist, will not scan.
+[2024.10.27-11.53.18:340][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest
+[2024.10.27-11.53.18:340][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_NegativeDamageTakenTest24EB444049909B84E7C7909B89C1E41E.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest.uasset'
+[2024.10.27-11.53.18:344][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:344][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest]
+[2024.10.27-11.53.18:344][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest
+[2024.10.27-11.53.18:345][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_NegativeDamageTakenTest9408C0A543A00C028102B28E39280E63.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest.uasset'
+[2024.10.27-11.53.18:347][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:347][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest]
+[2024.10.27-11.53.18:347][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest does not exist, will not scan.
+[2024.10.27-11.53.18:351][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest
+[2024.10.27-11.53.18:351][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_PositiveDamageTakenTestD381990A476573D8222D0C878EDB1F23.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest.uasset'
+[2024.10.27-11.53.18:353][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:354][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest]
+[2024.10.27-11.53.18:354][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest
+[2024.10.27-11.53.18:354][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_PositiveDamageTakenTestF300197B408248707E89C59B20065D8A.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.uasset'
+[2024.10.27-11.53.18:357][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:357][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest]
+[2024.10.27-11.53.18:357][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest does not exist, will not scan.
+[2024.10.27-11.53.18:360][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest
+[2024.10.27-11.53.18:360][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ZeroDamageTakenTestF8D51BA1488907DC0F51E2AFF88E88DA.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.uasset'
+[2024.10.27-11.53.18:364][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:364][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest]
+[2024.10.27-11.53.18:364][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest
+[2024.10.27-11.53.18:364][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ZeroDamageTakenTestC6AB54174CC0888F4902338A5CE7E8CE.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.uasset'
+[2024.10.27-11.53.18:367][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([2] browsable assets)...
+[2024.10.27-11.53.18:367][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.27-11.53.18:367][574]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest does not exist, will not scan.
+[2024.10.27-11.53.18:371][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.27-11.53.18:371][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTest1496515644A53EA6863105B8F9DC60F0.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.27-11.53.18:372][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest] ([5] browsable assets)...
+[2024.10.27-11.53.18:372][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest]
+[2024.10.27-11.53.18:373][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest
+[2024.10.27-11.53.18:374][574]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ToxicPoolFuncTestA8C69EE04C675A6E4A3F41986CD4B673.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.uasset'
+[2024.10.27-11.53.18:383][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.723 ms (total: 3.97 sec)
+[2024.10.27-11.53.18:400][574]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.27-11.53.18:400][574]LogContentValidation: Display: Starting to validate 44 assets
+[2024.10.27-11.53.18:400][574]LogContentValidation: Enabled validators:
+[2024.10.27-11.53.18:400][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-11.53.18:400][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-11.53.18:400][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-11.53.18:400][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.BP_CalcBounceVelocityJumpingPlayerTest
+[2024.10.27-11.53.18:400][574]AssetCheck: /Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest Validating asset
+[2024.10.27-11.53.18:400][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.BP_CalcBounceVelocityJumpingPlayerTest_C
+[2024.10.27-11.53.18:400][574]AssetCheck: /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest Validating asset
+[2024.10.27-11.53.18:400][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.BP_CalcBounceVelocityJumpingPlayerTest
+[2024.10.27-11.53.18:400][574]AssetCheck: /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest Validating asset
+[2024.10.27-11.53.18:400][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest.Default__BP_CalcBounceVelocityJumpingPlayerTest_C
+[2024.10.27-11.53.18:400][574]AssetCheck: /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityJumpingPlayerTest Validating asset
+[2024.10.27-11.53.18:400][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.BP_CalcBounceVelocityStaticPlayerTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.BP_CalcBounceVelocityStaticPlayerTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.BP_CalcBounceVelocityStaticPlayerTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest.Default__BP_CalcBounceVelocityStaticPlayerTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/BouncePad/BP_CalcBounceVelocityStaticPlayerTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.BP_DamageTakenLethalFunctionalTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.BP_DamageTakenLethalFunctionalTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.BP_DamageTakenLethalFunctionalTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest.Default__BP_DamageTakenLethalFunctionalTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenLethalFunctionalTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.BP_DamageTakenNonLethalFunctionalTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.BP_DamageTakenNonLethalFunctionalTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.BP_DamageTakenNonLethalFunctionalTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest.Default__BP_DamageTakenNonLethalFunctionalTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_DamageTakenNonLethalFunctionalTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.BP_HealthAboveZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.BP_HealthAboveZeroIsPlayerAliveTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.BP_HealthAboveZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest.Default__BP_HealthAboveZeroIsPlayerAliveTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthAboveZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.BP_HealthBelowZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.BP_HealthBelowZeroIsPlayerAliveTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.BP_HealthBelowZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest.Default__BP_HealthBelowZeroIsPlayerAliveTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthBelowZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.BP_HealthIsZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.BP_HealthIsZeroIsPlayerAliveTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.BP_HealthIsZeroIsPlayerAliveTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest.Default__BP_HealthIsZeroIsPlayerAliveTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_HealthIsZeroIsPlayerAliveTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest.BP_NegativeDamageTakenTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/HealthSystems/BP_NegativeDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest.BP_NegativeDamageTakenTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest.BP_NegativeDamageTakenTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest.Default__BP_NegativeDamageTakenTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_NegativeDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest.BP_PositiveDamageTakenTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/HealthSystems/BP_PositiveDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.BP_PositiveDamageTakenTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.BP_PositiveDamageTakenTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest.Default__BP_PositiveDamageTakenTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_PositiveDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest.BP_ZeroDamageTakenTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/HealthSystems/BP_ZeroDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.BP_ZeroDamageTakenTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.BP_ZeroDamageTakenTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest.Default__BP_ZeroDamageTakenTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/HealthSystems/BP_ZeroDamageTakenTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/Blueprints/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.BP_ToxicPoolFuncTest
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.27-11.53.18:401][574]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest.Default__BP_ToxicPoolFuncTest_C
+[2024.10.27-11.53.18:401][574]AssetCheck: /Game/ThirdPerson/Tests/ToxicPool/BP_ToxicPoolFuncTest Validating asset
+[2024.10.27-11.53.42:201][105]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.27-11.53.42:252][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.27-11.53.45:727][105]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.27-11.53.50:237][585]Cmd: TRANSACTION UNDO
+[2024.10.27-11.53.50:237][585]LogEditorTransaction: Undo Move Node
+[2024.10.27-11.53.54:359][974]Cmd: TRANSACTION UNDO
+[2024.10.27-11.53.54:359][974]LogEditorTransaction: Undo Move Node
+[2024.10.27-11.53.55:338][ 32]Cmd: TRANSACTION UNDO
+[2024.10.27-11.53.55:338][ 32]LogEditorTransaction: Undo Move Node
+[2024.10.27-11.54.12:844][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.27-11.54.14:326][907]LogSlate: Window 'Save Content' being destroyed
+[2024.10.27-11.54.14:333][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.27-11.54.14:407][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.27-11.54.14:419][907]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment
+[2024.10.27-11.54.14:419][907]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/FTEST_PrototypeEnvironmentBE54C51D406448E809CE119B3AC7CE80.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Maps/FTEST_PrototypeEnvironment.umap'
+[2024.10.27-11.54.14:425][907]LogFileHelpers: Saving map 'FTEST_PrototypeEnvironment' took 0.040
+[2024.10.27-11.54.14:425][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.10.27-11.54.14:500][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.10.27-11.54.14:500][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.10.27-11.54.14:520][907]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.27-11.54.14:521][907]LogSavePackage: Moving '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/BP_ThirdPersonCharacterDFD7578A4D6D1F74E431BC87B888DC11.tmp' to '../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.27-11.54.14:529][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.750 ms (total: 4.16 sec)
+[2024.10.27-11.54.14:529][907]LogAutomationController: Sending StartTestSession to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.14:529][907]LogAutomationController: Display: Clearing ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Logs/ and ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Tmp/
+[2024.10.27-11.54.14:529][907]AutomationTestingLog: -----Test Run 4----
+[2024.10.27-11.54.14:583][907]LogContentValidation: Display: Starting to validate 3 assets
+[2024.10.27-11.54.14:583][907]LogContentValidation: Enabled validators:
+[2024.10.27-11.54.14:583][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.27-11.54.14:583][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.27-11.54.14:583][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.27-11.54.14:583][907]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment
+[2024.10.27-11.54.14:583][907]AssetCheck: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment Validating asset
+[2024.10.27-11.54.14:583][907]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.Default__FTEST_PrototypeEnvironment_C_2
+[2024.10.27-11.54.14:583][907]AssetCheck: /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment Validating asset
+[2024.10.27-11.54.14:583][907]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.27-11.54.14:583][907]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.10.27-11.54.14:597][907]LogAutomationController: Sending RunTest BP_CalcBounceVelocityJumpingPlayerTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.14:597][907]LogAutomationController: Display: Test Started. Name={BP_CalcBounceVelocityJumpingPlayerTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityJumpingPlayerTest}
+[2024.10.27-11.54.14:597][907]LogAutomationWorker: Received StartTestSession from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.14:597][907]LogAutomationWorker: Received RunTests BP_CalcBounceVelocityJumpingPlayerTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.14:597][907]LogEditor: Starting PIE for the automation tests for world, FTEST_PrototypeEnvironment
+[2024.10.27-11.54.14:610][907]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.10.27-11.54.14:762][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.27-11.54.14:764][907]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2024.10.27-11.54.14:765][907]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.27-11.54.14:769][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004105s)
+[2024.10.27-11.54.14:769][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.004134s)
+[2024.10.27-11.54.14:781][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.27-11.54.14:782][907]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.27-11.54.14:783][907]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2024.10.27-11.54.14:789][907]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.10.27-11.54.14:789][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.27-11.54.14:789][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.27-11.54.14:789][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.27-11.54.14:789][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.27-11.54.14:789][907]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.27-11.54.14:789][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.27-11.54.14:789][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.27-11.54.14:789][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.27-11.54.14:789][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.27-11.54.14:789][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.27-11.54.14:789][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.27-11.54.14:791][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.27-11.54.14:810][907]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.27-11.54.14:811][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.27-11.54.14:811][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.27-11.54.14:811][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.27-11.54.14:812][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.10.27-11.54.14:812][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.10.27-11.54.14:813][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.10.27-11.54.14:813][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.10.27-11.54.14:813][907]LogInit: FAudioDevice initialized with ID 20.
+[2024.10.27-11.54.14:813][907]LogAudio: Display: Audio Device (ID: 20) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.27-11.54.14:813][907]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.27-11.54.14:870][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-11.54.14:871][907]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.27-11.54.14:885][907]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.27-11.54.14
+[2024.10.27-11.54.14:886][907]LogWorld: Bringing up level for play took: 0.014727
+[2024.10.27-11.54.14:888][907]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.10.27-11.54.14:888][907]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.27-11.54.14:888][907]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.27-11.54.14:888][907]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.27-11.54.14:890][907]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.27-11.54.14:898][907]PIE: Server logged in
+[2024.10.27-11.54.14:899][907]PIE: Play in editor total start time 0.301 seconds.
+[2024.10.27-11.54.14:925][908]LogFunctionalTest: Running tests indicated by Repro String: BP_CalcBounceVelocityJumpingPlayerTest_C_1
+[2024.10.27-11.54.15:016][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.27-11.54.16:251][986]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_CalcBounceVelocityJumpingPlayerTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityJumpingPlayerTest}
+[2024.10.27-11.54.16:251][986]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityJumpingPlayerTest
+[2024.10.27-11.54.16:251][986]LogAutomationController: BP_CalcBounceVelocityJumpingPlayerTest: Vector assertion passed ()
+[2024.10.27-11.54.16:251][986]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityJumpingPlayerTest
+[2024.10.27-11.54.16:269][986]LogAutomationController: Sending RunTest BP_CalcBounceVelocityStaticPlayerTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.16:269][986]LogAutomationController: Display: Test Started. Name={BP_CalcBounceVelocityStaticPlayerTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityStaticPlayerTest}
+[2024.10.27-11.54.16:280][987]LogAutomationWorker: Received RunTests BP_CalcBounceVelocityStaticPlayerTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.16:291][988]LogFunctionalTest: Running tests indicated by Repro String: BP_CalcBounceVelocityStaticPlayerTest_C_1
+[2024.10.27-11.54.16:305][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.27-11.54.16:566][  7]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_CalcBounceVelocityStaticPlayerTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityStaticPlayerTest}
+[2024.10.27-11.54.16:566][  7]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityStaticPlayerTest
+[2024.10.27-11.54.16:566][  7]LogAutomationController: BP_CalcBounceVelocityStaticPlayerTest: Vector assertion passed ()
+[2024.10.27-11.54.16:566][  7]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityStaticPlayerTest
+[2024.10.27-11.54.16:593][  8]LogAutomationController: Sending RunTest BP_DamageTakenFunctionalTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.16:593][  8]LogAutomationController: Display: Test Started. Name={BP_DamageTakenFunctionalTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenFunctionalTest}
+[2024.10.27-11.54.16:601][  9]LogAutomationWorker: Received RunTests BP_DamageTakenFunctionalTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.16:611][ 10]LogFunctionalTest: Running tests indicated by Repro String: BP_DamageTakenFunctionalTest_C_1
+[2024.10.27-11.54.16:633][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.10.27-11.54.16:870][ 28]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_9] 1
+[2024.10.27-11.54.16:892][ 29]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_DamageTakenFunctionalTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenFunctionalTest}
+[2024.10.27-11.54.16:892][ 29]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenFunctionalTest
+[2024.10.27-11.54.16:892][ 29]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenFunctionalTest
+[2024.10.27-11.54.16:920][ 30]LogAutomationController: Sending RunTest BP_DamageTakenLethalFunctionalTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.16:920][ 30]LogAutomationController: Display: Test Started. Name={BP_DamageTakenLethalFunctionalTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenLethalFunctionalTest}
+[2024.10.27-11.54.16:929][ 31]LogAutomationWorker: Received RunTests BP_DamageTakenLethalFunctionalTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.16:939][ 32]LogFunctionalTest: Running tests indicated by Repro String: BP_DamageTakenLethalFunctionalTest_C_1
+[2024.10.27-11.54.16:953][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.27-11.54.17:191][ 50]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_10] You Died
+[2024.10.27-11.54.17:211][ 51]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_DamageTakenLethalFunctionalTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenLethalFunctionalTest}
+[2024.10.27-11.54.17:211][ 51]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenLethalFunctionalTest
+[2024.10.27-11.54.17:211][ 51]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenLethalFunctionalTest
+[2024.10.27-11.54.17:239][ 52]LogAutomationController: Sending RunTest BP_DamageTakenTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.17:239][ 52]LogAutomationController: Display: Test Started. Name={BP_DamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenTest}
+[2024.10.27-11.54.17:248][ 53]LogAutomationWorker: Received RunTests BP_DamageTakenTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.17:257][ 54]LogFunctionalTest: Running tests indicated by Repro String: BP_DamageTakenTest_C_1
+[2024.10.27-11.54.17:275][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.27-11.54.17:511][ 72]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] 3
+[2024.10.27-11.54.17:533][ 73]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_DamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenTest}
+[2024.10.27-11.54.17:533][ 73]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenTest
+[2024.10.27-11.54.17:533][ 73]LogAutomationController: BP_CalcBounceVelocityJumpingPlayerTest: Vector assertion passed ()
+[2024.10.27-11.54.17:533][ 73]LogAutomationController: BP_DamageTakenTest: Bool assertion passed ()
+[2024.10.27-11.54.17:533][ 73]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenTest
+[2024.10.27-11.54.17:562][ 74]LogAutomationController: Sending RunTest BP_HealthAboveZeroTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.17:562][ 74]LogAutomationController: Display: Test Started. Name={BP_HealthAboveZeroTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthAboveZeroTest}
+[2024.10.27-11.54.17:571][ 75]LogAutomationWorker: Received RunTests BP_HealthAboveZeroTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.17:580][ 76]LogFunctionalTest: Running tests indicated by Repro String: BP_HealthAboveZeroTest_C_1
+[2024.10.27-11.54.17:596][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.27-11.54.17:702][ 85]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2024.10.27-11.54.17:832][ 94]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_7] 1
+[2024.10.27-11.54.17:853][ 95]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_HealthAboveZeroTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthAboveZeroTest}
+[2024.10.27-11.54.17:853][ 95]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthAboveZeroTest
+[2024.10.27-11.54.17:853][ 95]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthAboveZeroTest
+[2024.10.27-11.54.17:881][ 96]LogAutomationController: Sending RunTest BP_HealthBelowZeroIsPlayerAliveTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.17:881][ 96]LogAutomationController: Display: Test Started. Name={BP_HealthBelowZeroIsPlayerAliveTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthBelowZeroIsPlayerAliveTest}
+[2024.10.27-11.54.17:893][ 97]LogAutomationWorker: Received RunTests BP_HealthBelowZeroIsPlayerAliveTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.17:901][ 98]LogFunctionalTest: Running tests indicated by Repro String: BP_HealthBelowZeroIsPlayerAliveTest_C_1
+[2024.10.27-11.54.17:917][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.27-11.54.18:153][116]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_6] You Died
+[2024.10.27-11.54.18:175][117]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_HealthBelowZeroIsPlayerAliveTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthBelowZeroIsPlayerAliveTest}
+[2024.10.27-11.54.18:175][117]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthBelowZeroIsPlayerAliveTest
+[2024.10.27-11.54.18:175][117]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthBelowZeroIsPlayerAliveTest
+[2024.10.27-11.54.18:202][118]LogAutomationController: Sending RunTest BP_HealthIsZeroIsPlayerAliveTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.18:202][118]LogAutomationController: Display: Test Started. Name={BP_HealthIsZeroIsPlayerAliveTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthIsZeroIsPlayerAliveTest}
+[2024.10.27-11.54.18:211][119]LogAutomationWorker: Received RunTests BP_HealthIsZeroIsPlayerAliveTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.18:221][120]LogFunctionalTest: Running tests indicated by Repro String: BP_HealthIsZeroIsPlayerAliveTest_C_1
+[2024.10.27-11.54.18:236][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.27-11.54.18:473][138]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_8] You Died
+[2024.10.27-11.54.18:493][139]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_HealthIsZeroIsPlayerAliveTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthIsZeroIsPlayerAliveTest}
+[2024.10.27-11.54.18:493][139]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthIsZeroIsPlayerAliveTest
+[2024.10.27-11.54.18:493][139]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthIsZeroIsPlayerAliveTest
+[2024.10.27-11.54.18:521][140]LogAutomationController: Sending RunTest BP_NegativeDamageTakenTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.18:521][140]LogAutomationController: Display: Test Started. Name={BP_NegativeDamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_NegativeDamageTakenTest}
+[2024.10.27-11.54.18:529][141]LogAutomationWorker: Received RunTests BP_NegativeDamageTakenTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.18:538][142]LogFunctionalTest: Running tests indicated by Repro String: BP_NegativeDamageTakenTest_C_1
+[2024.10.27-11.54.18:558][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.27-11.54.18:661][151]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2024.10.27-11.54.18:813][161]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_NegativeDamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_NegativeDamageTakenTest}
+[2024.10.27-11.54.18:813][161]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_NegativeDamageTakenTest
+[2024.10.27-11.54.18:813][161]LogAutomationController: BP_NegativeDamageTakenTest: Bool assertion passed ()
+[2024.10.27-11.54.18:813][161]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_NegativeDamageTakenTest
+[2024.10.27-11.54.18:843][162]LogAutomationController: Sending RunTest BP_PositiveDamageTakenTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.18:843][162]LogAutomationController: Display: Test Started. Name={BP_PositiveDamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_PositiveDamageTakenTest}
+[2024.10.27-11.54.18:852][163]LogAutomationWorker: Received RunTests BP_PositiveDamageTakenTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.18:860][164]LogFunctionalTest: Running tests indicated by Repro String: BP_PositiveDamageTakenTest_C_1
+[2024.10.27-11.54.18:876][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.10.27-11.54.19:112][182]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_4] 1
+[2024.10.27-11.54.19:133][183]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_PositiveDamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_PositiveDamageTakenTest}
+[2024.10.27-11.54.19:134][183]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_PositiveDamageTakenTest
+[2024.10.27-11.54.19:134][183]LogAutomationController: BP_CalcBounceVelocityJumpingPlayerTest: Vector assertion passed ()
+[2024.10.27-11.54.19:134][183]LogAutomationController: BP_PositiveDamageTakenTest: Bool assertion passed ()
+[2024.10.27-11.54.19:134][183]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_PositiveDamageTakenTest
+[2024.10.27-11.54.19:163][184]LogAutomationController: Sending RunTest BP_ToxicPoolFuncTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.19:163][184]LogAutomationController: Display: Test Started. Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.27-11.54.19:171][185]LogAutomationWorker: Received RunTests BP_ToxicPoolFuncTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.19:180][186]LogFunctionalTest: Running tests indicated by Repro String: BP_ToxicPoolFuncTest_C_1
+[2024.10.27-11.54.19:197][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.27-11.54.19:871][234]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_11] 2
+[2024.10.27-11.54.20:447][273]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.27-11.54.20:447][273]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.27-11.54.20:447][273]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.27-11.54.20:477][274]LogAutomationController: Sending StopTestSession to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.20:478][274]LogAutomationWorker: Received StopTestSession from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.20:506][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-11.54.20:506][275]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.27-11.54.20:507][275]LogSlate: Window 'anitadev Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.27-11.54.20:511][275]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-11.54.20:512][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-11.54.20:512][275]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.27-11.54.20:512][275]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.27-11.54.20:516][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.27-11.54.20:521][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-11.54.20:533][275]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.27-11.54.20:533][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.27-11.54.20:535][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.27-11.54.20:540][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.27-11.54.20:589][276]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.10.27-11.54.21:448][378]LogSlate: Window 'Message Log' being destroyed
+[2024.10.27-11.54.21:453][378]LogSlate: Window 'Message Log' being destroyed
+[2024.10.27-11.54.36:576][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.27-11.54.38:645][956]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.27-11.54.38:673][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.27-11.54.38:686][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.27-11.54.38:699][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.10.27-11.54.43:649][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.27-11.54.43:705][421]LogAutomationController: Sending StartTestSession to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.43:705][421]LogAutomationController: Display: Clearing ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Logs/ and ../../../../../Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Saved/Automation/Tmp/
+[2024.10.27-11.54.43:705][421]AutomationTestingLog: -----Test Run 5----
+[2024.10.27-11.54.43:717][421]LogAutomationController: Sending RunTest BP_CalcBounceVelocityJumpingPlayerTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.43:717][421]LogAutomationController: Display: Test Started. Name={BP_CalcBounceVelocityJumpingPlayerTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityJumpingPlayerTest}
+[2024.10.27-11.54.43:717][421]LogAutomationWorker: Received StartTestSession from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.43:717][421]LogAutomationWorker: Received RunTests BP_CalcBounceVelocityJumpingPlayerTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.43:717][421]LogEditor: Starting PIE for the automation tests for world, FTEST_PrototypeEnvironment
+[2024.10.27-11.54.43:719][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.27-11.54.43:719][421]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.27-11.54.43:725][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005958s)
+[2024.10.27-11.54.43:725][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment to /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment (0.005987s)
+[2024.10.27-11.54.43:738][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.27-11.54.43:740][421]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.10.27-11.54.43:741][421]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2024.10.27-11.54.43:746][421]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.10.27-11.54.43:746][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.27-11.54.43:746][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.27-11.54.43:746][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.27-11.54.43:746][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.27-11.54.43:746][421]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.27-11.54.43:746][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.27-11.54.43:746][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.27-11.54.43:746][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.27-11.54.43:746][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.27-11.54.43:746][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.27-11.54.43:746][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.27-11.54.43:748][421]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.27-11.54.43:770][421]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2024.10.27-11.54.43:770][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.27-11.54.43:770][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.27-11.54.43:770][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.27-11.54.43:771][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.10.27-11.54.43:771][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.10.27-11.54.43:773][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.10.27-11.54.43:773][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.10.27-11.54.43:773][421]LogInit: FAudioDevice initialized with ID 21.
+[2024.10.27-11.54.43:773][421]LogAudio: Display: Audio Device (ID: 21) registered with world 'FTEST_PrototypeEnvironment'.
+[2024.10.27-11.54.43:773][421]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.10.27-11.54.43:818][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-11.54.43:819][421]LogLoad: Game class is 'MainGameMode_C'
+[2024.10.27-11.54.43:833][421]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment.FTEST_PrototypeEnvironment up for play (max tick rate 0) at 2024.10.27-11.54.43
+[2024.10.27-11.54.43:834][421]LogWorld: Bringing up level for play took: 0.015051
+[2024.10.27-11.54.43:836][421]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.10.27-11.54.43:836][421]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.27-11.54.43:836][421]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.10.27-11.54.43:836][421]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.10.27-11.54.43:838][421]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.10.27-11.54.43:844][421]PIE: Server logged in
+[2024.10.27-11.54.43:846][421]PIE: Play in editor total start time 0.128 seconds.
+[2024.10.27-11.54.43:866][422]LogFunctionalTest: Running tests indicated by Repro String: BP_CalcBounceVelocityJumpingPlayerTest_C_1
+[2024.10.27-11.54.43:999][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.27-11.54.45:150][502]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_CalcBounceVelocityJumpingPlayerTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityJumpingPlayerTest}
+[2024.10.27-11.54.45:150][502]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityJumpingPlayerTest
+[2024.10.27-11.54.45:150][502]LogAutomationController: BP_CalcBounceVelocityJumpingPlayerTest: Vector assertion passed ()
+[2024.10.27-11.54.45:150][502]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityJumpingPlayerTest
+[2024.10.27-11.54.45:158][502]LogAutomationController: Sending RunTest BP_CalcBounceVelocityStaticPlayerTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.45:159][502]LogAutomationController: Display: Test Started. Name={BP_CalcBounceVelocityStaticPlayerTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityStaticPlayerTest}
+[2024.10.27-11.54.45:168][503]LogAutomationWorker: Received RunTests BP_CalcBounceVelocityStaticPlayerTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.45:180][504]LogFunctionalTest: Running tests indicated by Repro String: BP_CalcBounceVelocityStaticPlayerTest_C_1
+[2024.10.27-11.54.45:197][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.27-11.54.45:447][522]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_CalcBounceVelocityStaticPlayerTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityStaticPlayerTest}
+[2024.10.27-11.54.45:447][522]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityStaticPlayerTest
+[2024.10.27-11.54.45:447][522]LogAutomationController: BP_CalcBounceVelocityStaticPlayerTest: Vector assertion passed ()
+[2024.10.27-11.54.45:447][522]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_CalcBounceVelocityStaticPlayerTest
+[2024.10.27-11.54.45:474][523]LogAutomationController: Sending RunTest BP_DamageTakenFunctionalTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.45:474][523]LogAutomationController: Display: Test Started. Name={BP_DamageTakenFunctionalTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenFunctionalTest}
+[2024.10.27-11.54.45:483][524]LogAutomationWorker: Received RunTests BP_DamageTakenFunctionalTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.45:491][525]LogFunctionalTest: Running tests indicated by Repro String: BP_DamageTakenFunctionalTest_C_1
+[2024.10.27-11.54.45:508][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.27-11.54.45:737][542]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_9] 1
+[2024.10.27-11.54.45:760][543]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_DamageTakenFunctionalTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenFunctionalTest}
+[2024.10.27-11.54.45:760][543]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenFunctionalTest
+[2024.10.27-11.54.45:760][543]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenFunctionalTest
+[2024.10.27-11.54.45:786][544]LogAutomationController: Sending RunTest BP_DamageTakenLethalFunctionalTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.45:786][544]LogAutomationController: Display: Test Started. Name={BP_DamageTakenLethalFunctionalTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenLethalFunctionalTest}
+[2024.10.27-11.54.45:796][545]LogAutomationWorker: Received RunTests BP_DamageTakenLethalFunctionalTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.45:804][546]LogFunctionalTest: Running tests indicated by Repro String: BP_DamageTakenLethalFunctionalTest_C_1
+[2024.10.27-11.54.45:823][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.27-11.54.46:062][564]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_10] You Died
+[2024.10.27-11.54.46:085][565]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_DamageTakenLethalFunctionalTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenLethalFunctionalTest}
+[2024.10.27-11.54.46:085][565]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenLethalFunctionalTest
+[2024.10.27-11.54.46:085][565]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenLethalFunctionalTest
+[2024.10.27-11.54.46:115][566]LogAutomationController: Sending RunTest BP_DamageTakenTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.46:115][566]LogAutomationController: Display: Test Started. Name={BP_DamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenTest}
+[2024.10.27-11.54.46:124][567]LogAutomationWorker: Received RunTests BP_DamageTakenTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.46:133][568]LogFunctionalTest: Running tests indicated by Repro String: BP_DamageTakenTest_C_1
+[2024.10.27-11.54.46:149][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.27-11.54.46:386][586]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_2] 3
+[2024.10.27-11.54.46:410][587]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_DamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenTest}
+[2024.10.27-11.54.46:410][587]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenTest
+[2024.10.27-11.54.46:410][587]LogAutomationController: BP_CalcBounceVelocityJumpingPlayerTest: Vector assertion passed ()
+[2024.10.27-11.54.46:410][587]LogAutomationController: BP_DamageTakenTest: Bool assertion passed ()
+[2024.10.27-11.54.46:410][587]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_DamageTakenTest
+[2024.10.27-11.54.46:436][588]LogAutomationController: Sending RunTest BP_HealthAboveZeroTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.46:436][588]LogAutomationController: Display: Test Started. Name={BP_HealthAboveZeroTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthAboveZeroTest}
+[2024.10.27-11.54.46:444][589]LogAutomationWorker: Received RunTests BP_HealthAboveZeroTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.46:454][590]LogFunctionalTest: Running tests indicated by Repro String: BP_HealthAboveZeroTest_C_1
+[2024.10.27-11.54.46:473][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.27-11.54.46:562][598]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2024.10.27-11.54.46:711][608]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_7] 1
+[2024.10.27-11.54.46:734][609]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_HealthAboveZeroTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthAboveZeroTest}
+[2024.10.27-11.54.46:734][609]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthAboveZeroTest
+[2024.10.27-11.54.46:734][609]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthAboveZeroTest
+[2024.10.27-11.54.46:761][610]LogAutomationController: Sending RunTest BP_HealthBelowZeroIsPlayerAliveTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.46:761][610]LogAutomationController: Display: Test Started. Name={BP_HealthBelowZeroIsPlayerAliveTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthBelowZeroIsPlayerAliveTest}
+[2024.10.27-11.54.46:769][611]LogAutomationWorker: Received RunTests BP_HealthBelowZeroIsPlayerAliveTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.46:778][612]LogFunctionalTest: Running tests indicated by Repro String: BP_HealthBelowZeroIsPlayerAliveTest_C_1
+[2024.10.27-11.54.46:796][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.27-11.54.47:034][630]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_6] You Died
+[2024.10.27-11.54.47:057][631]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_HealthBelowZeroIsPlayerAliveTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthBelowZeroIsPlayerAliveTest}
+[2024.10.27-11.54.47:057][631]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthBelowZeroIsPlayerAliveTest
+[2024.10.27-11.54.47:057][631]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthBelowZeroIsPlayerAliveTest
+[2024.10.27-11.54.47:084][632]LogAutomationController: Sending RunTest BP_HealthIsZeroIsPlayerAliveTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.47:084][632]LogAutomationController: Display: Test Started. Name={BP_HealthIsZeroIsPlayerAliveTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthIsZeroIsPlayerAliveTest}
+[2024.10.27-11.54.47:092][633]LogAutomationWorker: Received RunTests BP_HealthIsZeroIsPlayerAliveTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.47:101][634]LogFunctionalTest: Running tests indicated by Repro String: BP_HealthIsZeroIsPlayerAliveTest_C_1
+[2024.10.27-11.54.47:119][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.27-11.54.47:358][652]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_8] You Died
+[2024.10.27-11.54.47:380][653]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_HealthIsZeroIsPlayerAliveTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthIsZeroIsPlayerAliveTest}
+[2024.10.27-11.54.47:380][653]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthIsZeroIsPlayerAliveTest
+[2024.10.27-11.54.47:380][653]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_HealthIsZeroIsPlayerAliveTest
+[2024.10.27-11.54.47:410][654]LogAutomationController: Sending RunTest BP_NegativeDamageTakenTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.47:410][654]LogAutomationController: Display: Test Started. Name={BP_NegativeDamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_NegativeDamageTakenTest}
+[2024.10.27-11.54.47:419][655]LogAutomationWorker: Received RunTests BP_NegativeDamageTakenTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.47:427][656]LogFunctionalTest: Running tests indicated by Repro String: BP_NegativeDamageTakenTest_C_1
+[2024.10.27-11.54.47:442][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.27-11.54.47:548][665]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2024.10.27-11.54.47:702][675]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_NegativeDamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_NegativeDamageTakenTest}
+[2024.10.27-11.54.47:702][675]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_NegativeDamageTakenTest
+[2024.10.27-11.54.47:702][675]LogAutomationController: BP_NegativeDamageTakenTest: Bool assertion passed ()
+[2024.10.27-11.54.47:702][675]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_NegativeDamageTakenTest
+[2024.10.27-11.54.47:731][676]LogAutomationController: Sending RunTest BP_PositiveDamageTakenTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.47:731][676]LogAutomationController: Display: Test Started. Name={BP_PositiveDamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_PositiveDamageTakenTest}
+[2024.10.27-11.54.47:742][677]LogAutomationWorker: Received RunTests BP_PositiveDamageTakenTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.47:751][678]LogFunctionalTest: Running tests indicated by Repro String: BP_PositiveDamageTakenTest_C_1
+[2024.10.27-11.54.47:767][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.27-11.54.48:004][696]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_4] 1
+[2024.10.27-11.54.48:026][697]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_PositiveDamageTakenTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_PositiveDamageTakenTest}
+[2024.10.27-11.54.48:026][697]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_PositiveDamageTakenTest
+[2024.10.27-11.54.48:026][697]LogAutomationController: BP_CalcBounceVelocityJumpingPlayerTest: Vector assertion passed ()
+[2024.10.27-11.54.48:026][697]LogAutomationController: BP_PositiveDamageTakenTest: Bool assertion passed ()
+[2024.10.27-11.54.48:026][697]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_PositiveDamageTakenTest
+[2024.10.27-11.54.48:054][698]LogAutomationController: Sending RunTest BP_ToxicPoolFuncTest to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.48:054][698]LogAutomationController: Display: Test Started. Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.27-11.54.48:063][699]LogAutomationWorker: Received RunTests BP_ToxicPoolFuncTest from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.48:072][700]LogFunctionalTest: Running tests indicated by Repro String: BP_ToxicPoolFuncTest_C_1
+[2024.10.27-11.54.48:089][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.27-11.54.48:750][747]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_11] 2
+[2024.10.27-11.54.49:343][787]LogAutomationController: Display: Test Completed. Result={Success} Name={BP_ToxicPoolFuncTest} Path={Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest}
+[2024.10.27-11.54.49:343][787]LogAutomationController: BeginEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.27-11.54.49:343][787]LogAutomationController: EndEvents: Project.Functional Tests.ThirdPerson.Maps.FTEST_PrototypeEnvironment.BP_ToxicPoolFuncTest
+[2024.10.27-11.54.49:373][788]LogAutomationController: Sending StopTestSession to 6498BE4342D24A65936888B98C8575B5
+[2024.10.27-11.54.49:374][788]LogAutomationWorker: Received StopTestSession from 24629C3D4A4EB5FBA0148CB6C2CB15E1
+[2024.10.27-11.54.49:407][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-11.54.49:407][789]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_FTEST_PrototypeEnvironment
+[2024.10.27-11.54.49:407][789]LogSlate: Window 'anitadev Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.27-11.54.49:413][789]LogWorld: UWorld::CleanupWorld for FTEST_PrototypeEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-11.54.49:414][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-11.54.49:414][789]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.10.27-11.54.49:414][789]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.10.27-11.54.49:418][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.27-11.54.49:422][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-11.54.49:436][789]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.10.27-11.54.49:436][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.10.27-11.54.49:438][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.10.27-11.54.49:444][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.27-11.54.49:484][790]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.10.27-11.54.51:468][ 28]LogSlate: Window 'Message Log' being destroyed
+[2024.10.27-11.54.51:473][ 28]LogSlate: Window 'Message Log' being destroyed
