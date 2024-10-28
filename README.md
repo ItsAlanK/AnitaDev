@@ -31,3 +31,7 @@ The project is being developed in Unreal Engine 5.4.4
 - Interaction System
 	- Flow: Overlap begins > Add overlap interact object to array in player BP > Player BP is always checking interactions list to see if array has changed and set which interactible is available > Available interactible is saved to variable which is being updated > When interact button is pressed, if there is a valid interactible, its interact function is triggered
 	- Reference: https://www.youtube.com/watch?v=NhhATcTBqMA&list=PL5ADyRqL3M8HZru3SHTWF_iL28V25WaIp&index=3
+
+## Placeholder Assets:
+- [Kenney Fantasy Town Kit](https://kenney.nl/assets/fantasy-town-kit)
+- [Kenney Platformer Kit](https://kenney.nl/assets/platformer-kit)
