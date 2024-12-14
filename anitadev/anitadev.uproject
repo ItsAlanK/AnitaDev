@@ -18,6 +18,10 @@
 		{
 			"Name": "FunctionalTestingEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "SVGImporter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
