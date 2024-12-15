@@ -6,3 +6,5 @@ anitadev/Saved/Logs/anitadev.log
 *.log
 /anitadev/Intermediate/Build
 /anitadev/Binaries/Win64
+/anitadev/Saved/Cooked
+/anitadev/Saved
