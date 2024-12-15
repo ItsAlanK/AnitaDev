@@ -749,6 +749,8 @@
 				"E:/Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/KenneyUIAssets/Spritesheet/spritesheet-default.uasset",
 				"E:/Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/KenneyUIAssets/Spritesheet/spritesheet-double.uasset",
 				"E:/Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/InteractionParentTests/BP_UnlockAbilityTest.uasset",
+				"E:/Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/InteractionParentTests/BP_UnlockAbilityObjShrinkTest.uasset",
+				"E:/Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/Tests/InteractionParentTests/BP_UnlockAbilityRemoveFromMapTest.uasset",
 				"E:/Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Blueprints/UI/Interaction-BG.uasset",
 				"E:/Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Models/AnitaTest/anita3_0.uasset",
 				"E:/Documents/MSc-Games/Software-Engineering/AnitaDev/anitadev/Content/Models/Base_mat.uasset",
